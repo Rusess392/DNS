@@ -1,3 +1,4 @@
+||api.*.*$denyallow=api.dfwairport.mobi|api.mapbox.com|api.onedrive.com|api.positon.xyz|api.usaa.com|api.weather.com
 @@||4spromax.site^$important
 @@||a.fsdn.com^$important
 @@||aadcdn.msftauth.net^$important
@@ -25,12 +26,6 @@
 @@||animekai.bz^$important
 @@||animekai.to^$important
 @@||api-global.netflix.com^$important
-@@||api.dfwairport.mobi^$important
-@@||api.mapbox.com^$important
-@@||api.onedrive.com^$important
-@@||api.positon.xyz^$important
-@@||api.usaa.com^$important
-@@||api.weather.com^$important
 @@||apis.google.com^$important
 @@||app-site-association.cdn-apple.com^$important
 @@||app.docupost.com^$important
