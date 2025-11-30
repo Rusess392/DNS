@@ -29,5 +29,3 @@ config:
             - + 52.168.117.170
             - + 52.182.143.213
             - + 52.184.201.245
-
-# jess-checksum: ZwqZUZPhhS5S6HX4WurAPgjJi2KYDSPRMFQZrv94pfNCby
