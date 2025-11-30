@@ -1,0 +1,26 @@
+#----- Minecraft -----#
+#140.82.114.3        #Github
+#142.251.16.84       #Google
+#142.251.167.84      #Google
+#142.251.35.164      #Google
+#142.251.40.142      #Google
+#142.251.40.227      #Google
+#172.253.62.84       #Google
+#35.186.247.156      #Google
+#51.104.15.253       #RIPE Network Coordination Centre (RIPE)
+#51.116.253.170      #RIPE Network Coordination Centre (RIPE)
+104.208.16.90       #Microsoft
+104.208.16.95       #Microsoft
+13.107.213.40       #Microsoft
+13.107.246.40       #Microsoft
+13.89.179.10        #Microsoft
+20.189.173.1        #Microsoft
+20.42.73.27         #Microsoft
+20.44.10.123        #Microsoft
+40.79.141.152       #Microsoft
+40.79.150.123       #Microsoft
+40.79.189.58        #Microsoft
+52.168.117.168      #Microsoft
+52.168.117.170      #Microsoft
+52.182.143.213      #Microsoft
+52.184.201.245      #Microsoft
