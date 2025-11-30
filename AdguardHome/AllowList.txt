@@ -1,3 +1,5 @@
+||wiki*.*^$denyallow=wikipedia.org
+||wiki.*^$denyallow=wiki.obtainium.imranr.dev|wiki.ubuntu.com
 @@||a.fsdn.com^$important
 @@||aadcdn.msftauth.net^$important
 @@||accdn.lpsnmedia.net^$important
@@ -123,7 +125,6 @@
 @@||eaton.com^$important
 @@||edge-chat.facebook.com^$important
 @@||edge-chat.instagram.com^$important
-@@||en.wikipedia.org^$important
 @@||encrypted-tbn0.gstatic.com^$important
 @@||engagement.mobilesms.io^$important
 @@||entitlements.jwplayer.com^$important
@@ -462,8 +463,6 @@
 @@||whatsmyname.app^$important
 @@||who.is^$important
 @@||widget.trustpilot.com^$important
-@@||wiki.obtainium.imranr.dev^$important
-@@||wiki.ubuntu.com^$important
 @@||withyotta.com^$important
 @@||workspace.google.com^$important
 @@||ws-0f7bbb82-3d8f-4f04-b7e6-3f51c0e4da04.sendbird.com^$important
