@@ -1,4 +1,4 @@
-||wiki*.*army^$denyallow=wikipedia.org
+@@||4spromax.site^$important
 @@||a.fsdn.com^$important
 @@||aadcdn.msftauth.net^$important
 @@||accdn.lpsnmedia.net^$important
@@ -172,6 +172,7 @@
 @@||homesteadcraft.com^$important
 @@||hosts.ooklaserver.net^$important
 @@||hub.docker.com^$important
+@@||i.redd.it^$important
 @@||i.ytimg.com^$important
 @@||i*.ytimg.com^$important
 @@||ichnaea.netflix.com^$important
@@ -193,6 +194,7 @@
 @@||invent.kde.org^$important
 @@||ip6.arpa^$importanta^$important
 @@||ipv4-c100-phl001-ix.ftl.nflxvideo.net^$important
+@@||ipv4-c150-ewr002-ix.1.oca.nflxvideo.net^$important
 @@||irs.gov^$important
 @@||itsfoss.community^$important
 @@||jitsi.org^$important
@@ -247,6 +249,7 @@
 @@||mem.gfx.ms^$important
 @@||minecraft-services.net^$important
 @@||minecraft.net^$important
+@@||minecraft.wiki^$important
 @@||minecraftservices.com^$important
 @@||mirror.accum.se^$important
 @@||mirrors.dotsrc.org^$important
@@ -285,6 +288,7 @@
 @@||occ-0-472-465.1.nflxso.net^$important
 @@||office.com^$important
 @@||office.net^$important
+@@||ogs.google.com^$important
 @@||old-releases.ubuntu.com^$important
 @@||old.reddit.com^$important
 @@||omaps.app^$important
@@ -292,6 +296,7 @@
 @@||openpgp.org^$important
 @@||organicmaps.app^$important
 @@||osb-v2.samsungqbe.com^$important
+@@||outlook.office365.com^$important
 @@||ov-df.microsoft.com^$important
 @@||p.kakaocdn.net^$important
 @@||p.sfx.ms^$important
@@ -304,6 +309,7 @@
 @@||pentester.com^$important
 @@||pgl.yoyo.org^$important
 @@||phinf.pstatic.net^$important
+@@||phishing.army^$important
 @@||phl00*-ix.1.oca.nflxvideo.net^$important
 @@||pistona.xyz^$important
 @@||pkgs.tailscale.com^$important
@@ -336,6 +342,7 @@
 @@||reddit.map.fastly.net^$important
 @@||redditmedia.com^$important
 @@||referrals.brave.com^$important
+@@||release-assets.githubusercontent.com^$important
 @@||reliantenergyretails.tt.omtrdc.net^$important
 @@||rentcafe.com^$important
 @@||report.error-report.com^$important
@@ -396,6 +403,7 @@
 @@||steam*.com^$important
 @@||steam*.net^$important
 @@||store-images.*.com^$important
+@@||store.google.com^$important
 @@||streameeeeee.site^$important
 @@||streamingnow.mov^$important
 @@||streamingworld.xyz^$important
@@ -403,6 +411,7 @@
 @@||strmup.cc^$important
 @@||support.microsoft.com^$important
 @@||support.mozilla.org^$important
+@@||syncthing.net^$important
 @@||t1.daumcdn.net^$important
 @@||t1.kakaocdn.net^$important
 @@||tailscale.com^$important
@@ -432,8 +441,10 @@
 @@||us-west-2.amazonaws.com^$important
 @@||us.archive.ubuntu.com^$important
 @@||us.document360.io^$important
+@@||us.mova.tech^$important
 @@||use.typekit.net^$important
 @@||v.whatsapp.net^$important
+@@||vanillatweaks.net^$important
 @@||victorysupplyco.com^$important
 @@||vidsrc-embed.ru^$important
 @@||vidsrc.me^$important
@@ -470,6 +481,7 @@
 @@||ws-doordash.sendbird.com^$important
 @@||ww.kissasia.cc^$important
 @@||ww19.0123movie.net^$important
+@@||ww22.0123movie.net^$important
 @@||ww4.fmovies.co^$important
 @@||ww7.kissasian.video^$important
 @@||www.adobe.com^$important
