@@ -14,6 +14,8 @@ type: settings
 config:
     filter:
         endpoints:
+            - + 127.0.0.1
+            - + ::1
             - + 104.208.16.90
             - + 104.208.16.95
             - + 13.107.213.40
@@ -30,4 +32,4 @@ config:
             - + 52.182.143.213
             - + 52.184.201.245
 
-# jess-checksum: ZwqZUZPhhS5S6HX4WurAPgjJi2KYDSPRMFQZrv94pfNCby
+# jess-checksum: ZwoWCKyCUxe3jeJ7eUWuYBwSkEBBrFYjMgYHS4NW4GzzJq
