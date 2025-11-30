@@ -1,0 +1,21 @@
+type: settings
+config:
+    dns:
+        dontResolveSpecialDomains: false
+        nameservers: []
+    filter:
+        blockInbound: false
+        defaultAction: ask
+        domainHeuristics: false
+        includeCNAMEs: false
+        includeSubdomains: false
+        lists:
+            - TRAC
+            - MAL
+            - DECEP
+            - BAD
+            - BIGT
+            - UNBREAK
+        preventBypassing: false
+
+# jess-checksum: ZwnM7paM65BZXXNhfm97NZGgtAHPPo4yMvBxE1AWXtozps
