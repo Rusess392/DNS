@@ -48,5 +48,3 @@ config:
         serviceEndpoints:
             - '- 192.168.8.10'
             - + 127.0.0.1
-
-# jess-checksum: ZwsKHdtCoYDcC9wP4ZjRW41yeAJRG3Nh3LaGH4zX49NaCp
