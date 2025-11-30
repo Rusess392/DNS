@@ -2,8 +2,7 @@ type: settings
 config:
     dns:
         dontResolveSpecialDomains: false
-        nameservers:
-            - dot://adguard.jancenk.com?ip=192.168.8.10&name=AdGuardHome&blockedif=zeroip
+        nameservers: []
     filter:
         blockInbound: true
         defaultAction: ask
@@ -19,7 +18,7 @@ config:
             - DECEP
             - BAD
             - BIGT
+            - WSP
+            - DCT
             - UNBREAK
         preventBypassing: false
-
-        #asddfasdfsadfsafd
