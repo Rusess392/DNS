@@ -6,9 +6,10 @@
 #142.251.40.142      #Google
 #142.251.40.227      #Google
 #172.253.62.84       #Google
-#35.186.247.156      #Google
-#51.104.15.253       #RIPE Network Coordination Centre (RIPE)
-#51.116.253.170      #RIPE Network Coordination Centre (RIPE)
+#35.186.247.156        #Google
+#64.233.180.84         #Google
+#51.104.15.253         #RIPE Network Coordination Centre (RIPE)
+#51.116.253.170        #RIPE Network Coordination Centre (RIPE)
 
 type: settings
 config:
@@ -31,5 +32,9 @@ config:
             - + 52.168.117.170
             - + 52.182.143.213
             - + 52.184.201.245
+            - +104.208.16.91
+            - +20.189.173.28
+            - +20.190.152.21
+            - +40.79.173.41
 
 # jess-checksum: ZwoWCKyCUxe3jeJ7eUWuYBwSkEBBrFYjMgYHS4NW4GzzJq
