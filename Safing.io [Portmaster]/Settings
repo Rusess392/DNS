@@ -7,6 +7,9 @@ config:
         blockInbound: false
         defaultAction: ask
         domainHeuristics: false
+        endpoints:
+            - + 127.0.0.1
+            - + ::1
         includeCNAMEs: false
         includeSubdomains: false
         lists:
@@ -18,4 +21,4 @@ config:
             - UNBREAK
         preventBypassing: false
 
-# jess-checksum: ZwnM7paM65BZXXNhfm97NZGgtAHPPo4yMvBxE1AWXtozps
+# jess-checksum: ZwkRk3wmD1wMLofuSbPg6iEyUiv7RBc9Adk351Cp2eTJdz
