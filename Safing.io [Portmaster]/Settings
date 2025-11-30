@@ -20,5 +20,3 @@ config:
             - BIGT
             - UNBREAK
         preventBypassing: false
-
-# jess-checksum: ZwkRk3wmD1wMLofuSbPg6iEyUiv7RBc9Adk351Cp2eTJdz
