@@ -9,18 +9,25 @@
 #35.186.247.156      #Google
 #51.104.15.253       #RIPE Network Coordination Centre (RIPE)
 #51.116.253.170      #RIPE Network Coordination Centre (RIPE)
-104.208.16.90       #Microsoft
-104.208.16.95       #Microsoft
-13.107.213.40       #Microsoft
-13.107.246.40       #Microsoft
-13.89.179.10        #Microsoft
-20.189.173.1        #Microsoft
-20.42.73.27         #Microsoft
-20.44.10.123        #Microsoft
-40.79.141.152       #Microsoft
-40.79.150.123       #Microsoft
-40.79.189.58        #Microsoft
-52.168.117.168      #Microsoft
-52.168.117.170      #Microsoft
-52.182.143.213      #Microsoft
-52.184.201.245      #Microsoft
+
+type: settings
+config:
+    filter:
+        endpoints:
+            - + 104.208.16.90
+            - + 104.208.16.95
+            - + 13.107.213.40
+            - + 13.107.246.40
+            - + 13.89.179.10
+            - + 20.189.173.1
+            - + 20.42.73.27
+            - + 20.44.10.123
+            - + 40.79.141.152
+            - + 40.79.150.123
+            - + 40.79.189.58
+            - + 52.168.117.168
+            - + 52.168.117.170
+            - + 52.182.143.213
+            - + 52.184.201.245
+
+# jess-checksum: ZwqZUZPhhS5S6HX4WurAPgjJi2KYDSPRMFQZrv94pfNCby
