@@ -1,4 +1,3 @@
-||api.*.*$denyallow=api.dfwairport.mobi|api.mapbox.com|api.onedrive.com|api.positon.xyz|api.usaa.com|api.weather.com
 @@||4spromax.site^$important
 @@||a.fsdn.com^$important
 @@||aadcdn.msftauth.net^$important
@@ -9,6 +8,7 @@
 @@||accounts.*.net^$important
 @@||accounts.google.com^$important
 @@||accountscenter.*.com^$important
+@@||acctcdn.msauth.net^$important
 @@||acr-us-prd.samsungcloud.tv^$important
 @@||activebuilding.com^$important
 @@||adobetarget.data.adobedc.net^$important
@@ -73,6 +73,7 @@
 @@||cdn.growthbook.io^$important
 @@||cdn.jsdelivr.net.cdn.cloudflare.net^$important
 @@||cdn.kissasia.cc^$important
+@@||cdn.prod.website-files.com^$important
 @@||cdn.samsungcloudsolution.com^$important
 @@||cdn.segment.com^$important
 @@||cdn11.bigcommerce.com^$important
@@ -84,13 +85,16 @@
 @@||claude.ai^$important
 @@||client.px-cdn.net^$important
 @@||clientconfig.passport.net^$important
+@@||clients.l.google.com^$important
 @@||clients6.google.com^$important
 @@||cloudflare.docker.com^$important
 @@||cloudfront.net^$important
 @@||cloudnestra.com^$important
 @@||cognito-idp.us-east-2.amazonaws.com^$important
 @@||coingecko.com^$important
+@@||coinmarketcap.com^$important
 @@||community.spiceworks.com^$important
+@@||content-autofill.googleapis.com^$important
 @@||craftcloud3d.com^$important
 @@||creditkarma.com^$important
 @@||creditkarmacdn-a.akamaihd.net^$important
@@ -102,6 +106,7 @@
 @@||delta.com^$important
 @@||developer.android.com^$important
 @@||dh1y47vf5ttia.cloudfront.net^$important
+@@||discord.com^$important
 @@||discord.gg^$important
 @@||discourse.ubuntu.com^$important
 @@||discourse.ubuntubudgie.org^$important
@@ -109,9 +114,12 @@
 @@||discuss-cdn.kde.org^$important
 @@||discuss.kde.org^$important
 @@||dns10.quad9.net^$important
+@@||doc-*-58-apps-viewer.googleusercontent.com^$important
 @@||docker.io^$important
+@@||docs.google.com^$important
 @@||doordash.com^$important
 @@||dotnet.microsoft.com^$important
+@@||drive.google.com^$important
 @@||duckduckgo.com^$important
 @@||dyson-h.assetsadobe2.com^$important
 @@||e.mail.comms.yahoo.net^$important
@@ -135,6 +143,7 @@
 @@||fjdpxu27ml.execute-api.us-east-2.amazonaws.com^$important
 @@||flathub.org^$important
 @@||fontawesome.com^$important
+@@||fonts.googleapis.com^$important
 @@||fonts.gstatic.com^$important
 @@||frame.work^$important
 @@||freshchat.com^$important
@@ -142,7 +151,9 @@
 @@||fs.microsoft.com^$important
 @@||ftp.acc.umu.se^$important
 @@||ftwotx-speedtest-ookla-01.st.charter.com^$important
+@@||gds.google.com^$important
 @@||geoip-js.com^$important
+@@||get.adobe.com^$important
 @@||getapp.cc^$important
 @@||ghcr.io^$important
 @@||github.com^$important
@@ -152,6 +163,7 @@
 @@||go-updater-1830831421.us-west-2.elb.amazonaws.com^$important
 @@||go-updater.brave.com^$important
 @@||go.microsoft.com^$important
+@@||googlehosted.l.googleusercontent.com^$important
 @@||gql-realtime.reddit.com^$important
 @@||graph.facebook.com^$important
 @@||graph.microsoft.com^$important
@@ -205,6 +217,9 @@
 @@||laptop-updates.brave.com^$important
 @@||lb.nodies.app^$important
 @@||lcprd1.samsungcloudsolution.net^$important
+@@||lh2.l.google.com^$important
+@@||lh3.google.com^$important
+@@||lh3.googleusercontent.com^$important
 @@||lineageos.org^$important
 @@||lineup.play.cbsi.video^$important
 @@||linkedin.com^$important
@@ -243,6 +258,7 @@
 @@||megaup.site^$important
 @@||mem.gfx.ms^$important
 @@||minecraft-services.net^$important
+@@||minecraft.fandom.com^$important
 @@||minecraft.net^$important
 @@||minecraft.wiki^$important
 @@||minecraftservices.com^$important
@@ -251,10 +267,12 @@
 @@||mmx-ds.cdn.whatsapp.net^$important
 @@||mojang.com^$important
 @@||moto-cds.appspot.com^$important
+@@||movhub.ws^$important
 @@||moviekhhd.biz^$important
 @@||movuna.xyz^$important
 @@||mp.microsoft.com^$important
 @@||mparticle.weather.com^$important
+@@||mtalk.google.com^$important
 @@||mullvad.net^$important
 @@||multiembed.mov^$important
 @@||my.microsoftpersonalcontent.com^$important
@@ -268,6 +286,7 @@
 @@||nexon.com^$important
 @@||nexon.io^$important
 @@||nextcloud.com^$important
+@@||nextdoor.com^$important
 @@||nodereal.io^$important
 @@||nordcdn.com^$important
 @@||nordvpn.com^$important
@@ -289,6 +308,7 @@
 @@||omaps.app^$important
 @@||one.one.one.one^$important
 @@||openpgp.org^$important
+@@||optimizationguide-pa.googleapis.com^$important
 @@||organicmaps.app^$important
 @@||osb-v2.samsungqbe.com^$important
 @@||outlook.office365.com^$important
@@ -315,6 +335,7 @@
 @@||premium.urban-vpn.com^$important
 @@||pretendo.network^$important
 @@||preview.redd.it^$important
+@@||prismlauncher.org^$important
 @@||privacy.com^$important
 @@||prod-default.lb.logrocket.network^$important
 @@||prodlb.siteintercept.qualtrics.com.cdn.cloudflare.net^$important
@@ -330,6 +351,8 @@
 @@||putgate.org^$important
 @@||puzzle.plus^$important
 @@||r.lr-hv-in.com^$important
+@@||rapidairmax.site^$important
+@@||rapidshare.cc^$important
 @@||raspberrypi.com^$important
 @@||raw.githubusercontent.com^$important
 @@||realpage.com^$important
@@ -360,6 +383,7 @@
 @@||scs.samsungqbe.com^$important
 @@||sdk.iad-07.braze.com^$important
 @@||search.brave.com^$important
+@@||secure.login.gov^$important
 @@||security.ubuntu.com^$important
 @@||self-check.portmaster.home.arpa^$important
 @@||self.events.data.microsoft.com^$important
@@ -439,6 +463,7 @@
 @@||us.mova.tech^$important
 @@||use.typekit.net^$important
 @@||v.whatsapp.net^$important
+@@||va.gov^$important
 @@||vanillatweaks.net^$important
 @@||victorysupplyco.com^$important
 @@||vidsrc-embed.ru^$important
@@ -476,6 +501,7 @@
 @@||ws-doordash.sendbird.com^$important
 @@||ww.kissasia.cc^$important
 @@||ww19.0123movie.net^$important
+@@||ww20.0123movie.net^$important
 @@||ww22.0123movie.net^$important
 @@||ww4.fmovies.co^$important
 @@||ww7.kissasian.video^$important
@@ -487,6 +513,7 @@
 @@||www.crucial.com^$important
 @@||www.delta.com^$important
 @@||www.dyson.com^$important
+@@||www.easyuefi.com^$important
 @@||www.efax.com^$important
 @@||www.facebook.com^$important
 @@||www.fbsbx.com^$important
@@ -505,6 +532,7 @@
 @@||www.maxemail.com^$important
 @@||www.mayoclinic.org^$important
 @@||www.microsoft.com^$important
+@@||www.minecraftforum.net^$important
 @@||www.mydav.org^$important
 @@||www.navyfederal.org^$important
 @@||www.netflix.com^$important
@@ -537,14 +565,17 @@
 @@||www.w3schools.io^$important
 @@||www.whatsapp.com^$important
 @@||www.youtube.com^$important
+@@||www3.l.google.com^$important
 @@||xboxlive.com.akadns.net^$important
 @@||xboxlive.com^$important
 @@||xx.fbcdn.net^$important
 @@||yesmovies.baby^$important
+@@||youtube-ui.l.google.com^$important
 @@||yryefinkgsbsfan.com^$important
 @@||yt3.ggpht.com^$important
 @@||ytimg.com^$important
 @@||yubico.gitbook.io^$important
 @@||yuzu-emu.org^$important
+@@||zebec.io^$important
 @@||zendesk.com^$important
 @@||znmx.mv36bbcfa.site^$important
