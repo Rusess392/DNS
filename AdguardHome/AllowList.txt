@@ -1,4 +1,3 @@
-||*fuelrewards.com$denyallow=www.fuelrewards.com|auth.fuelrewards.com
 @@||4spromax.site^$important
 @@||a.fsdn.com^$important
 @@||aadcdn.msftauth.net^$important
@@ -587,3 +586,4 @@
 @@||zebec.io^$important
 @@||zendesk.com^$important
 @@||znmx.mv36bbcfa.site^$important
+||*fuelrewards.com$denyallow=www.fuelrewards.com|auth.fuelrewards.com
