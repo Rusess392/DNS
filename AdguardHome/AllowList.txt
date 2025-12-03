@@ -1,3 +1,4 @@
+||*fuelrewards.com$denyallow=www.fuelrewards.com|auth.fuelrewards.com
 @@||4spromax.site^$important
 @@||a.fsdn.com^$important
 @@||aadcdn.msftauth.net^$important
@@ -75,6 +76,7 @@
 @@||cdn.kissasia.cc^$important
 @@||cdn.prod.website-files.com^$important
 @@||cdn.samsungcloudsolution.com^$important
+@@||cdn.sanity.io^$important
 @@||cdn.segment.com^$important
 @@||cdn11.bigcommerce.com^$important
 @@||cdnjs.cloudflare.com^$important
@@ -246,6 +248,7 @@
 @@||mail.onelink.me^$important
 @@||main.vscode-cdn.net^$important
 @@||maps.*.com^$important
+@@||markperks.com^$important
 @@||mask.icloud.com^$important
 @@||mastodon.social^$important
 @@||mateusaquino.github.io^$important
@@ -321,6 +324,7 @@
 @@||packages.mozilla.org^$important
 @@||pancakeswap.com^$important
 @@||pancakeswap.finance^$important
+@@||parcelsapp.com^$important
 @@||pentester.com^$important
 @@||pgl.yoyo.org^$important
 @@||phinf.pstatic.net^$important
@@ -362,6 +366,7 @@
 @@||referrals.brave.com^$important
 @@||release-assets.githubusercontent.com^$important
 @@||reliantenergyretails.tt.omtrdc.net^$important
+@@||remarkable.com^$important
 @@||rentcafe.com^$important
 @@||report.error-report.com^$important
 @@||rewards.brave.com^$important
@@ -391,6 +396,7 @@
 @@||sessions-bugsnag.docker.com^$important
 @@||shadowlandschronicles.com^$important
 @@||sharedeasy.club^$important
+@@||shell.com^$important
 @@||shop.app^$important
 @@||simplelogin.io^$important
 @@||siteintercept.qualtrics.com^$important
@@ -507,6 +513,7 @@
 @@||ww7.kissasian.video^$important
 @@||www.adobe.com^$important
 @@||www.amazon.com^$important
+@@||www.android.com^$important
 @@||www.apartments.com^$important
 @@||www.bark.us^$important
 @@||www.brother-usa.com^$important
@@ -550,6 +557,7 @@
 @@||www.recaptcha.net^$important
 @@||www.reddit.com^$important
 @@||www.redditstatic.com^$important
+@@||www.shell.us^$important
 @@||www.solvusoft.com^$important
 @@||www.speedtest.net^$important
 @@||www.taxbit.com^$important
