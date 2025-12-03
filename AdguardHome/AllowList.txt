@@ -44,6 +44,7 @@
 @@||assets.adobedtm.com^$important
 @@||assets.nflxext.com^$important
 @@||astronestinnovation.xyz^$important
+@@||auth.fuelrewards.com
 @@||auth.openai.com^$important
 @@||auth.privy.io^$important
 @@||auth.split.io^$important
@@ -523,6 +524,7 @@
 @@||www.efax.com^$important
 @@||www.facebook.com^$important
 @@||www.fbsbx.com^$important
+@@||www.fuelrewards.com
 @@||www.github.com^$important
 @@||www.gmail.com^$important
 @@||www.google.com^$important
@@ -586,4 +588,3 @@
 @@||zebec.io^$important
 @@||zendesk.com^$important
 @@||znmx.mv36bbcfa.site^$important
-||*fuelrewards.com$denyallow=www.fuelrewards.com|auth.fuelrewards.com
