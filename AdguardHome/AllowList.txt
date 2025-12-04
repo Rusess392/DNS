@@ -16,6 +16,7 @@
 @@||aidvantage.studentaid.gov^$important
 @@||ajax.aspnetcdn.com^$important
 @@||ajax.cloudflare.com^$important
+@@||ajax.googleapis.com^$important
 @@||aka.ms^$important
 @@||akamai.net^$important
 @@||akamaiedge.net^$important
@@ -45,6 +46,7 @@
 @@||assets.nflxext.com^$important
 @@||astronestinnovation.xyz^$important
 @@||auth.fuelrewards.com
+@@||auth.fuelrewards.com^$important
 @@||auth.openai.com^$important
 @@||auth.privy.io^$important
 @@||auth.split.io^$important
@@ -59,6 +61,7 @@
 @@||blazecraftedworks.xyz^$important
 @@||blockscout-merits-images.s3.us-east-1.amazonaws.com^$important
 @@||brave-browser-apt-release.s3.brave.com^$important
+@@||brave-core-ext.s3.brave.com^$important
 @@||brightcraftedstudio.xyz^$important
 @@||brn30055ce52839.local^$important
 @@||brother.com^$important
@@ -68,6 +71,7 @@
 @@||calyxos.org^$important
 @@||cdn-0.nflximg.com^$important
 @@||cdn-dynmedia-1.microsoft.com^$important
+@@||cdn.auth0.com^$important
 @@||cdn.cookielaw.org^$important
 @@||cdn.create.microsoft.com^$important
 @@||cdn.fluidplayer.com^$important
@@ -89,6 +93,7 @@
 @@||clientconfig.passport.net^$important
 @@||clients.l.google.com^$important
 @@||clients6.google.com^$important
+@@||clientstream.launchdarkly.com^$important
 @@||cloudflare.docker.com^$important
 @@||cloudfront.net^$important
 @@||cloudnestra.com^$important
@@ -101,6 +106,7 @@
 @@||creditkarma.com^$important
 @@||creditkarmacdn-a.akamaihd.net^$important
 @@||crl3.digicert.com^$important
+@@||csp.withgoogle.com^$important
 @@||ctldl.windowsupdate.com^$important
 @@||daum.net^$important
 @@||dav.org^$important
@@ -181,6 +187,7 @@
 @@||homesteadcraft.com^$important
 @@||hosts.ooklaserver.net^$important
 @@||hub.docker.com^$important
+@@||i.creativecommons.org^$important
 @@||i.redd.it^$important
 @@||i.ytimg.com^$important
 @@||i*.ytimg.com^$important
@@ -197,11 +204,13 @@
 @@||inaturalist.nz^$important
 @@||infura.io^$important
 @@||infura.org^$important
+@@||ingress.pdisoftware.auth0app.com.cdn.cloudflare.net^$important
 @@||instagram.c10r.instagram.com^$important
 @@||insurifycdn.com^$important
 @@||intercom.io^$important
 @@||invent.kde.org^$important
 @@||ip6.arpa^$importanta^$important
+@@||ipostal1.com^$important
 @@||ipv4-c100-phl001-ix.ftl.nflxvideo.net^$important
 @@||ipv4-c150-ewr002-ix.1.oca.nflxvideo.net^$important
 @@||irs.gov^$important
@@ -213,6 +222,8 @@
 @@||kaios-d.facebook.com^$important
 @@||katalk-fo6ld96d.kgslb.com^$important
 @@||katalk.kakao.com^$important
+@@||kit.fontawesome.com.cdn.cloudflare.net^$important
+@@||kraken.com^$important
 @@||kshow123.*^$important
 @@||kustomer.help^$important
 @@||l.facebook.com^$important
@@ -222,6 +233,7 @@
 @@||lh2.l.google.com^$important
 @@||lh3.google.com^$important
 @@||lh3.googleusercontent.com^$important
+@@||licensebuttons.net^$important
 @@||lineageos.org^$important
 @@||lineup.play.cbsi.video^$important
 @@||linkedin.com^$important
@@ -252,6 +264,7 @@
 @@||mask.icloud.com^$important
 @@||mastodon.social^$important
 @@||mateusaquino.github.io^$important
+@@||maximumfx.nl^$important
 @@||mblogthumb4.phinf.naver.net^$important
 @@||meet.no42.org^$important
 @@||mega.co.nz^$important
@@ -309,6 +322,7 @@
 @@||old-releases.ubuntu.com^$important
 @@||old.reddit.com^$important
 @@||omaps.app^$important
+@@||omnicalculator.com^$important
 @@||one.one.one.one^$important
 @@||openpgp.org^$important
 @@||optimizationguide-pa.googleapis.com^$important
@@ -325,6 +339,7 @@
 @@||pancakeswap.com^$important
 @@||pancakeswap.finance^$important
 @@||parcelsapp.com^$important
+@@||payments.google.com^$important
 @@||pentester.com^$important
 @@||pgl.yoyo.org^$important
 @@||phinf.pstatic.net^$important
@@ -398,6 +413,7 @@
 @@||sharedeasy.club^$important
 @@||shell.com^$important
 @@||shop.app^$important
+@@||simplelogin.com^$important
 @@||simplelogin.io^$important
 @@||siteintercept.qualtrics.com^$important
 @@||smartasset.com^$important
@@ -409,8 +425,10 @@
 @@||spinthewheel.app^$important
 @@||spinthewheel.cc^$important
 @@||srv313.bakins.cyou^$important
+@@||ssl.cf*.rackcdn.com^$important
 @@||ssl.gstatic.com^$important
 @@||stackoverflow.com^$important
+@@||stackpath.bootstrapcdn.com^$important
 @@||star-mini.c10r.facebook.com^$important
 @@||star.c10r.facebook.com^$important
 @@||stardew.info^$important
@@ -523,8 +541,10 @@
 @@||www.easyuefi.com^$important
 @@||www.efax.com^$important
 @@||www.facebook.com^$important
+@@||www.fakenamegenerator.com^$important
 @@||www.fbsbx.com^$important
 @@||www.fuelrewards.com
+@@||www.fuelrewards.com^$important
 @@||www.github.com^$important
 @@||www.gmail.com^$important
 @@||www.google.com^$important
