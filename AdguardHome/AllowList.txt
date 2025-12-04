@@ -4,9 +4,7 @@
 @@||accdn.lpsnmedia.net^$important
 @@||account.microsoft.com^$important
 @@||accountcheckupwiz.msdx.microsoft.com^$important
-@@||accounts.*.com^$important
-@@||accounts.*.net^$important
-@@||accounts.google.com^$important
+@||accounts.google.com^$important
 @@||accountscenter.*.com^$important
 @@||acctcdn.msauth.net^$important
 @@||acr-us-prd.samsungcloud.tv^$important
