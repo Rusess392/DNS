@@ -4,7 +4,8 @@
 @@||accdn.lpsnmedia.net^$important
 @@||account.microsoft.com^$important
 @@||accountcheckupwiz.msdx.microsoft.com^$important
-@||accounts.google.com^$important
+@@||accounts.google.com^$important
+@@||accounts.youtube.com^$important
 @@||accountscenter.*.com^$important
 @@||acctcdn.msauth.net^$important
 @@||acr-us-prd.samsungcloud.tv^$important
@@ -18,13 +19,16 @@
 @@||aka.ms^$important
 @@||akamai.net^$important
 @@||akamaiedge.net^$important
+@@||alb.reddit.com^$important
 @@||alfred.camera^$important
 @@||ally.com^$important
 @@||ally.tt.omtrdc.net^$important
 @@||amctheatres.com^$important
 @@||animekai.bz^$important
 @@||animekai.to^$important
+@@||api-exxon-prod.clm-comarch.com^$important
 @@||api-global.netflix.com^$important
+@@||api-v3.raydium.io^$important
 @@||apis.google.com^$important
 @@||app-site-association.cdn-apple.com^$important
 @@||app.docupost.com^$important
@@ -125,6 +129,7 @@
 @@||docs.google.com^$important
 @@||doordash.com^$important
 @@||dotnet.microsoft.com^$important
+@@||downdetector.com^$important
 @@||drive.google.com^$important
 @@||duckduckgo.com^$important
 @@||dyson-h.assetsadobe2.com^$important
@@ -143,6 +148,7 @@
 @@||explorer-api.walletconnect.com^$important
 @@||extensionupdater.brave.com^$important
 @@||external-preview.redd.it^$important
+@@||exxon-us.app.link^$important
 @@||f-droid.org^$important
 @@||fedex.com^$important
 @@||finance^$important
@@ -261,6 +267,7 @@
 @@||markperks.com^$important
 @@||mask.icloud.com^$important
 @@||mastodon.social^$important
+@@||mateoliving.com^$important
 @@||mateusaquino.github.io^$important
 @@||maximumfx.nl^$important
 @@||mblogthumb4.phinf.naver.net^$important
@@ -270,6 +277,7 @@
 @@||megaup.cc^$important
 @@||megaup.live^$important
 @@||megaup.site^$important
+@@||megaup22.online^$important
 @@||mem.gfx.ms^$important
 @@||minecraft-services.net^$important
 @@||minecraft.fandom.com^$important
@@ -302,6 +310,7 @@
 @@||nextcloud.com^$important
 @@||nextdoor.com^$important
 @@||nodereal.io^$important
+@@||nodes.pancakeswap.info^$important
 @@||nordcdn.com^$important
 @@||nordvpn.com^$important
 @@||notarize.com^$important
@@ -338,6 +347,7 @@
 @@||pancakeswap.finance^$important
 @@||parcelsapp.com^$important
 @@||payments.google.com^$important
+@@||pcloud.com^$important
 @@||pentester.com^$important
 @@||pgl.yoyo.org^$important
 @@||phinf.pstatic.net^$important
@@ -346,6 +356,7 @@
 @@||pistona.xyz^$important
 @@||pkgs.tailscale.com^$important
 @@||pluto.tv^$important
+@@||polygon-rpc.com^$important
 @@||pool.ntp.org^$important
 @@||portainer-io-assets.sfo2.digitaloceanspaces.com^$important
 @@||ports.ubuntu.com^$important
@@ -377,12 +388,14 @@
 @@||reddit.map.fastly.net^$important
 @@||redditmedia.com^$important
 @@||referrals.brave.com^$important
+@@||relay.walletconnect.org^$important
 @@||release-assets.githubusercontent.com^$important
 @@||reliantenergyretails.tt.omtrdc.net^$important
 @@||remarkable.com^$important
 @@||rentcafe.com^$important
 @@||report.error-report.com^$important
 @@||rewards.brave.com^$important
+@@||rewards.exxon.com^$important
 @@||rexdl.com^$important
 @@||rmcnmv.akamaized.net^$important
 @@||rpc.ankr.com^$important
@@ -459,6 +472,7 @@
 @@||talk-pilsner-1bxx2m3t.kgslb.com^$important
 @@||talk-pilsner.kakao.com^$important
 @@||talk-shareex.kakao.com^$important
+@@||tangem.com^$important
 @@||time.android.com^$important
 @@||time.samsungcloudsolution.com^$important
 @@||tms.usaa.com^$important
@@ -483,6 +497,7 @@
 @@||us.archive.ubuntu.com^$important
 @@||us.document360.io^$important
 @@||us.mova.tech^$important
+@@||us.narwal.com^$important
 @@||use.typekit.net^$important
 @@||v.whatsapp.net^$important
 @@||va.gov^$important
@@ -538,6 +553,7 @@
 @@||www.dyson.com^$important
 @@||www.easyuefi.com^$important
 @@||www.efax.com^$important
+@@||www.exxon.com^$important
 @@||www.facebook.com^$important
 @@||www.fakenamegenerator.com^$important
 @@||www.fbsbx.com^$important
@@ -581,10 +597,12 @@
 @@||www.speedtest.net^$important
 @@||www.taxbit.com^$important
 @@||www.tenorshare.com^$important
+@@||www.truenas.com^$important
 @@||www.tsa.gov^$important
 @@||www.twingate.com^$important
 @@||www.ubuntu.com^$important
 @@||www.urban-vpn.com^$important
+@@||www.urbandictionary.com^$important
 @@||www.usps.com^$important
 @@||www.verizon.com^$important
 @@||www.victorysupplyinc.com^$important
@@ -606,3 +624,4 @@
 @@||zebec.io^$important
 @@||zendesk.com^$important
 @@||znmx.mv36bbcfa.site^$important
+@||accounts.google.com^$important
