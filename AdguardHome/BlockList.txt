@@ -23,13 +23,16 @@
 ||imgbox.com^$important
 ||itunes.apple.com^$important
 ||jetbrains.com^$important
+||jimapinternal.imap.mail.g03.yahoodns.net^$important
 ||l-0003.l-msedge.net^$important
 ||launchpad.net^$important
+||logs.netflix.com^$important
 ||microsoft.com^$important
 ||microsoftonline.com^$important
 ||mozilla.com^$important
 ||msidentity.com^$important
 ||netflix.com^$important
+||ntp.ubuntu.com^$important
 ||qwant.com^$important
 ||reddit.com^$important
 ||snapcraft.io^$important
@@ -37,8 +40,10 @@
 ||surveymonkey.com^$important
 ||t-msedge.net^$important
 ||test^$important
+||time.google.com^$important
 ||trafficmanager.net^$important
 ||ubuntu.com^$important
+||unagi-na.amazon.com^$important
 ||unifi^$important
 ||vidyard.com^$important
 ||www.googleadservices.com^$important

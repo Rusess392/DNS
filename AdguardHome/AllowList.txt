@@ -1,6 +1,7 @@
 @@||4spromax.site^$important
 @@||a.fsdn.com^$important
 @@||aadcdn.msftauth.net^$important
+@@||aaplimg.com^$important
 @@||accdn.lpsnmedia.net^$important
 @@||account.microsoft.com^$important
 @@||accountcheckupwiz.msdx.microsoft.com^$important
@@ -432,6 +433,9 @@
 @@||s3-us-gov-*-*.amazonaws.com^$important
 @@||s3.amazonaws.com^$important
 @@||safing.io^$important
+@@||samsungacr.com^$important
+@@||samsungnyc.com^$important
+@@||samsungqbe.com^$important
 @@||sascdn.com^$important
 @@||scontent-hou1-1.cdninstagram.com^$important
 @@||scontent-iad3-*.cdninstagram.com^$important
