@@ -30,6 +30,7 @@
 @@||amctheatres.com^$important
 @@||animekai.bz^$important
 @@||animekai.to^$important
+@@||api-bcb54897.duosecurity.com^$important
 @@||api-exxon-prod.clm-comarch.com^$important
 @@||api-global.netflix.com^$important
 @@||api-v3.raydium.io^$important
@@ -65,6 +66,8 @@
 @@||basicattentiontoken.org^$important
 @@||bigbluebutton.org^$important
 @@||bitwarden.com^$important
+@@||blackboard.com^$important
+@@||blackboardcdn.com^$important
 @@||blazecraftedworks.xyz^$important
 @@||blockscout-merits-images.s3.us-east-1.amazonaws.com^$important
 @@||brave-browser-apt-release.s3.brave.com^$important
@@ -127,6 +130,7 @@
 @@||davenport.edu^$important
 @@||definitionupdates.microsoft.com^$important
 @@||delta.com^$important
+@@||desktop.docker.com^$important
 @@||developer.android.com^$important
 @@||dh1y47vf5ttia.cloudfront.net^$important
 @@||discord.com^$important
@@ -141,6 +145,7 @@
 @@||dns10.quad9.net^$important
 @@||doc-*-58-apps-viewer.googleusercontent.com^$important
 @@||docker.io^$important
+@@||dockerstatic.com^$important
 @@||docs.google.com^$important
 @@||doordash.com^$important
 @@||dotnet.microsoft.com^$important
@@ -254,6 +259,7 @@
 @@||lh2.l.google.com^$important
 @@||lh3.google.com^$important
 @@||lh3.googleusercontent.com^$important
+@@||libgen.is^$important
 @@||licensebuttons.net^$important
 @@||lineageos.org^$important
 @@||lineup.play.cbsi.video^$important
@@ -306,6 +312,7 @@
 @@||mirror.accum.se^$important
 @@||mirrors.dotsrc.org^$important
 @@||mmx-ds.cdn.whatsapp.net^$important
+@@||mobile.events.data.microsoft.com^$important
 @@||mojang.com^$important
 @@||moto-cds.appspot.com^$important
 @@||movhub.ws^$important
@@ -353,6 +360,7 @@
 @@||one.one.one.one^$important
 @@||open.umn.edu^$important
 @@||openpgp.org^$important
+@@||openstax.org^$important
 @@||optimizationguide-pa.googleapis.com^$important
 @@||organicmaps.app^$important
 @@||osb-v2.samsungqbe.com^$important
@@ -410,6 +418,8 @@
 @@||reddit-uploaded-media.s3-accelerate.amazonaws.com^$important
 @@||reddit.map.fastly.net^$important
 @@||redditmedia.com^$important
+@@||redshelf-images.s3-external-1.amazonaws.com^$important
+@@||redshelf.com^$important
 @@||referrals.brave.com^$important
 @@||relay.walletconnect.org^$important
 @@||release-assets.githubusercontent.com^$important
@@ -448,6 +458,7 @@
 @@||self-check.portmaster.home.arpa^$important
 @@||self.events.data.microsoft.com^$important
 @@||self.inc^$important
+@@||services.vstbridge.com^$important
 @@||sessions-bugsnag.docker.com^$important
 @@||shadowlandschronicles.com^$important
 @@||sharedeasy.club^$important
@@ -542,9 +553,12 @@
 @@||vidsrc.me^$important
 @@||vidsrc.stream^$important
 @@||vidsrc.xyz^$important
+@@||visualstudio.com^$important
+@@||vitalsource.com^$important
 @@||vlscppe.microsoft.com^$important
 @@||voice.google.com^$important
 @@||voice.l.google.com^$important
+@@||vsassets.io^$important
 @@||vteximg.com.br^$important
 @@||vtexpayments.com.br^$important
 @@||w-mt.co^$important
@@ -584,8 +598,11 @@
 @@||www.apartments.com^$important
 @@||www.bark.us^$important
 @@||www.brother-usa.com^$important
+@@||www.chegg.com^$important
 @@||www.crucial.com^$important
+@@||www.davenportbookstore.com^$important
 @@||www.delta.com^$important
+@@||www.directtextbook.com^$important
 @@||www.dyson.com^$important
 @@||www.easyuefi.com^$important
 @@||www.efax.com^$important
@@ -609,9 +626,11 @@
 @@||www.lookmovie2.to^$important
 @@||www.maxemail.com^$important
 @@||www.mayoclinic.org^$important
+@@||www.merriam-webster.com^$important
 @@||www.microsoft.com^$important
 @@||www.minecraftforum.net^$important
 @@||www.mydav.org^$important
+@@||www.nationalunderwriter.com^$important
 @@||www.navyfederal.org^$important
 @@||www.netflix.com^$important
 @@||www.netify.ai^$important
@@ -624,6 +643,7 @@
 @@||www.paypalobjects.com.cdn.cloudflare.net^$important
 @@||www.paypalobjects.com^$important
 @@||www.pcsmypov.com^$important
+@@||www.perlego.com^$important
 @@||www.pickupplease.org^$important
 @@||www.portainer.io^$important
 @@||www.privateinternetaccess.com^$important
@@ -646,6 +666,7 @@
 @@||www.verizon.com^$important
 @@||www.victorysupplyinc.com^$important
 @@||www.vpnjantit.com^$important
+@@||www.vscode-unpkg.net^$important
 @@||www.w3schools.io^$important
 @@||www.weather.gov^$important
 @@||www.whatsapp.com^$important
@@ -660,6 +681,7 @@
 @@||yt3.ggpht.com^$important
 @@||ytimg.com^$important
 @@||yubico.gitbook.io^$important
+@@||yumpu.com^$important
 @@||yuzu-emu.org^$important
 @@||zebec.io^$important
 @@||zendesk.com^$important
