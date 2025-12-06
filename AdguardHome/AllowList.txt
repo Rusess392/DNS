@@ -19,6 +19,7 @@
 @@||ajax.cloudflare.com^$important
 @@||ajax.googleapis.com^$important
 @@||aka.ms^$important
+@@||akadns.net^$important
 @@||akamai.net^$important
 @@||akamaiedge.net^$important
 @@||alb.reddit.com^$important
