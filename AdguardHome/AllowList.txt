@@ -114,6 +114,7 @@
 @@||cloudfront.net^$important
 @@||cloudnestra.com^$important
 @@||cognito-idp.us-east-2.amazonaws.com^$important
+@@||coinbase.com^$important
 @@||coingecko.com^$important
 @@||coinmarketcap.com^$important
 @@||community.spiceworks.com^$important
@@ -133,6 +134,7 @@
 @@||desktop.docker.com^$important
 @@||developer.android.com^$important
 @@||dh1y47vf5ttia.cloudfront.net^$important
+@@||discord-attachments-uploads-prd.storage.googleapis.com^$important
 @@||discord.com^$important
 @@||discord.gg^$important
 @@||discordapp.com^$important
@@ -516,6 +518,7 @@
 @@||talk-pilsner.kakao.com^$important
 @@||talk-shareex.kakao.com^$important
 @@||tangem.com^$important
+@@||thepiratebay.org^$important
 @@||time.android.com^$important
 @@||time.samsungcloudsolution.com^$important
 @@||tms.usaa.com^$important
@@ -524,6 +527,7 @@
 @@||tonscan.org^$important
 @@||tools.usps.com^$important
 @@||torproject.org^$important
+@@||torsnatch.com^$important
 @@||transak.com^$important
 @@||transmissionbt.com^$important
 @@||trezor.io^$important
