@@ -29,6 +29,7 @@
 @@||api-exxon-prod.clm-comarch.com^$important
 @@||api-global.netflix.com^$important
 @@||api-v3.raydium.io^$important
+@@||api.mapbox.com^$important
 @@||apis.google.com^$important
 @@||app-site-association.cdn-apple.com^$important
 @@||app.docupost.com^$important
@@ -90,12 +91,17 @@
 @@||chainid.network^$important
 @@||challenges.cloudflare.com^$important
 @@||charlieacademy.org^$important
+@@||chrome.google.com^$important
+@@||chromewebstore.google.com^$important
 @@||claude.ai^$important
 @@||client.px-cdn.net^$important
 @@||clientconfig.passport.net^$important
 @@||clients.l.google.com^$important
+@@||clients2.googleusercontent.com^$important
 @@||clients6.google.com^$important
 @@||clientstream.launchdarkly.com^$important
+@@||cloaked.app^$important
+@@||cloaked.com^$important
 @@||cloudflare.docker.com^$important
 @@||cloudfront.net^$important
 @@||cloudnestra.com^$important
@@ -118,6 +124,8 @@
 @@||dh1y47vf5ttia.cloudfront.net^$important
 @@||discord.com^$important
 @@||discord.gg^$important
+@@||discordapp.com^$important
+@@||discordapp.net^$important
 @@||discourse.ubuntu.com^$important
 @@||discourse.ubuntubudgie.org^$important
 @@||discover.com^$important
@@ -184,6 +192,7 @@
 @@||guce.yahoo.com^$important
 @@||habitatsusq.org^$important
 @@||harvest.finance^$important
+@@||hcaptcha.com^$important
 @@||hellopublic.com^$important
 @@||hentaicity.com^$important
 @@||hgasm*.com^$important
@@ -252,6 +261,7 @@
 @@||loftliving.com^$important
 @@||log.tailscale.io^$important
 @@||login.*.com^$important
+@@||login.gov^$important
 @@||logincdn.msauth.net^$important
 @@||lscr.io^$important
 @@||m.facebook.com^$important
@@ -304,6 +314,7 @@
 @@||naver.com^$important
 @@||naverpa-phinf.pstatic.net^$important
 @@||navyfederalcu.tt.omtrdc.net^$important
+@@||ncognia.com^$important
 @@||netusa.xyz^$important
 @@||nexon.com^$important
 @@||nexon.io^$important
@@ -355,6 +366,7 @@
 @@||phl00*-ix.1.oca.nflxvideo.net^$important
 @@||pistona.xyz^$important
 @@||pkgs.tailscale.com^$important
+@@||places.googleapis.com^$important
 @@||pluto.tv^$important
 @@||polygon-rpc.com^$important
 @@||pool.ntp.org^$important
@@ -394,6 +406,7 @@
 @@||remarkable.com^$important
 @@||rentcafe.com^$important
 @@||report.error-report.com^$important
+@@||revealmobile.com^$important
 @@||rewards.brave.com^$important
 @@||rewards.exxon.com^$important
 @@||rexdl.com^$important
@@ -449,6 +462,7 @@
 @@||static-2v.gitbook.com^$important
 @@||static-assets.fs.liveperson.com^$important
 @@||static.cdninstagram.com^$important
+@@||static.cloudflareinsights.com^$important
 @@||static.licdn.com^$important
 @@||static.netify.ai^$important
 @@||static.oklink.com^$important
@@ -462,6 +476,7 @@
 @@||streamingnow.mov^$important
 @@||streamingworld.xyz^$important
 @@||streetviewpixels-pa.googleapis.com^$important
+@@||stripe.com^$important
 @@||strmup.cc^$important
 @@||support.microsoft.com^$important
 @@||support.mozilla.org^$important
@@ -498,6 +513,7 @@
 @@||us.document360.io^$important
 @@||us.mova.tech^$important
 @@||us.narwal.com^$important
+@@||usajobs.gov^$important
 @@||use.typekit.net^$important
 @@||v.whatsapp.net^$important
 @@||va.gov^$important
@@ -608,6 +624,7 @@
 @@||www.victorysupplyinc.com^$important
 @@||www.vpnjantit.com^$important
 @@||www.w3schools.io^$important
+@@||www.weather.gov^$important
 @@||www.whatsapp.com^$important
 @@||www.youtube.com^$important
 @@||www3.l.google.com^$important
