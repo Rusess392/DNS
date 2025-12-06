@@ -9,9 +9,11 @@
 @@||accountscenter.*.com^$important
 @@||acctcdn.msauth.net^$important
 @@||acr-us-prd.samsungcloud.tv^$important
+@@||action.freespeechcoalition.com^$important
 @@||activebuilding.com^$important
 @@||adobetarget.data.adobedc.net^$important
 @@||ads.brave.com^$important
+@@||affirm.com^$important
 @@||aidvantage.studentaid.gov^$important
 @@||ajax.aspnetcdn.com^$important
 @@||ajax.cloudflare.com^$important
@@ -72,6 +74,7 @@
 @@||c.s-microsoft.com^$important
 @@||calyxinstitute.org^$important
 @@||calyxos.org^$important
+@@||cash.app^$important
 @@||cdn-0.nflximg.com^$important
 @@||cdn-dynmedia-1.microsoft.com^$important
 @@||cdn.auth0.com^$important
@@ -115,9 +118,11 @@
 @@||creditkarmacdn-a.akamaihd.net^$important
 @@||crl3.digicert.com^$important
 @@||csp.withgoogle.com^$important
+@@||ctfassets.net^$important
 @@||ctldl.windowsupdate.com^$important
 @@||daum.net^$important
 @@||dav.org^$important
+@@||davenport.edu^$important
 @@||definitionupdates.microsoft.com^$important
 @@||delta.com^$important
 @@||developer.android.com^$important
@@ -179,6 +184,7 @@
 @@||github.com^$important
 @@||github.githubassets.com^$important
 @@||github.io^$important
+@@||githubusercontent.com^$important
 @@||gmail.com^$important
 @@||go-updater-1830831421.us-west-2.elb.amazonaws.com^$important
 @@||go-updater.brave.com^$important
@@ -269,6 +275,7 @@
 @@||m.stripe.network^$important
 @@||m.youtube.com^$important
 @@||m1-production-documents.s3.us-east-1.amazonaws.com^$important
+@@||m1.com^$important
 @@||m365.cloud.microsoft^$important
 @@||mail.*.com^$important
 @@||mail.onelink.me^$important
@@ -342,6 +349,7 @@
 @@||omaps.app^$important
 @@||omnicalculator.com^$important
 @@||one.one.one.one^$important
+@@||open.umn.edu^$important
 @@||openpgp.org^$important
 @@||optimizationguide-pa.googleapis.com^$important
 @@||organicmaps.app^$important
@@ -358,6 +366,7 @@
 @@||pancakeswap.finance^$important
 @@||parcelsapp.com^$important
 @@||payments.google.com^$important
+@@||paypal.com^$important
 @@||pcloud.com^$important
 @@||pentester.com^$important
 @@||pgl.yoyo.org^$important
@@ -411,8 +420,10 @@
 @@||rewards.exxon.com^$important
 @@||rexdl.com^$important
 @@||rmcnmv.akamaized.net^$important
+@@||robinhood.com^$important
 @@||rpc.ankr.com^$important
 @@||rr*---sn-8xgp1vo-p5q*.googlevideo.com^$important
+@@||rr4---sn-ab5l6nrl.googlevideo.com^$important
 @@||rufus.ie^$important
 @@||s-cdn.anthropic.com^$important
 @@||s.w-x.co^$important
@@ -448,6 +459,7 @@
 @@||southwest.com^$important
 @@||spinthewheel.app^$important
 @@||spinthewheel.cc^$important
+@@||squarecdn.com^$important
 @@||srv313.bakins.cyou^$important
 @@||ssl.cf*.rackcdn.com^$important
 @@||ssl.gstatic.com^$important
@@ -518,6 +530,8 @@
 @@||v.whatsapp.net^$important
 @@||va.gov^$important
 @@||vanillatweaks.net^$important
+@@||varomoney.com^$important
+@@||venmo.com^$important
 @@||victorysupplyco.com^$important
 @@||vidsrc-embed.ru^$important
 @@||vidsrc.me^$important
@@ -548,6 +562,7 @@
 @@||widget.trustpilot.com^$important
 @@||wiki.obtainium.imranr.dev^$important
 @@||wiki.ubuntu.com^$important
+@@||withpersona.com^$important
 @@||withyotta.com^$important
 @@||workspace.google.com^$important
 @@||ws-0f7bbb82-3d8f-4f04-b7e6-3f51c0e4da04.sendbird.com^$important
@@ -597,9 +612,12 @@
 @@||www.netify.ai^$important
 @@||www.nhs.uk^$important
 @@||www.ntppool.org^$important
+@@||www.obooko.com^$important
 @@||www.oklink.com^$important
 @@||www.openkeychain.org^$important
 @@||www.openpgp.org^$important
+@@||www.paypalobjects.com.cdn.cloudflare.net^$important
+@@||www.paypalobjects.com^$important
 @@||www.pcsmypov.com^$important
 @@||www.pickupplease.org^$important
 @@||www.portainer.io^$important
