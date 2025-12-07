@@ -426,7 +426,6 @@
 @@||relay.walletconnect.org^$important
 @@||release-assets.githubusercontent.com^$important
 @@||reliantenergyretails.tt.omtrdc.net^$important
-@@||remarkable.com^$important
 @@||rentcafe.com^$important
 @@||report.error-report.com^$important
 @@||revealmobile.com^$important
