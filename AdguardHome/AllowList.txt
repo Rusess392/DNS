@@ -7,7 +7,6 @@
 @@||accountcheckupwiz.msdx.microsoft.com^$important
 @@||accounts.google.com^$important
 @@||accounts.youtube.com^$important
-@@||accountscenter.*.com^$important
 @@||acctcdn.msauth.net^$important
 @@||acidtool.com^$important
 @@||acr-us-prd.samsungcloud.tv^$important
