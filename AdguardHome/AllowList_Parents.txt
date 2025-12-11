@@ -1,0 +1,5 @@
+@@||auth.remarkable.com^$important
+@@||cdn.remarkable.com^$important
+@@||my.remarkable.com^$important
+@@||web.eu.tectonic.remarkable.com^$important
+@@||www.remarkable.com^$important
