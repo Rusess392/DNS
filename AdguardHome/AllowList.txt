@@ -16,6 +16,7 @@
 @@||ads.brave.com^$important
 @@||affirm.com^$important
 @@||aidvantage.studentaid.gov^$important
+@@||airalo.com^$important
 @@||ajax.aspnetcdn.com^$important
 @@||ajax.cloudflare.com^$important
 @@||ajax.googleapis.com^$important
@@ -42,6 +43,7 @@
 @@||app-site-association.cdn-apple.com^$important
 @@||app.docupost.com^$important
 @@||app.launchdarkly.com^$important
+@@||app.optibase.io^$important
 @@||appgrooves.com^$important
 @@||apple.com^$important
 @@||apps.kde.org^$important
@@ -54,14 +56,17 @@
 @@||archive.ubuntu.com^$important
 @@||argoflyleens.fun^$important
 @@||ashlandgreenecapital.com^$important
+@@||asset.brandfetch.io^$important
 @@||assets-cms.privateinternetaccess.com^$important
 @@||assets.adobedtm.com^$important
+@@||assets.brandfetch.io^$important
 @@||assets.nflxext.com^$important
 @@||astronestinnovation.xyz^$important
 @@||auth.fuelrewards.com
 @@||auth.fuelrewards.com^$important
 @@||auth.openai.com^$important
 @@||auth.privy.io^$important
+@@||auth.remarkable.com^$important
 @@||auth.split.io^$important
 @@||auth.zillowhomeloans.com^$important
 @@||avatars.githubusercontent.com^$important
@@ -78,6 +83,7 @@
 @@||blazecraftedworks.xyz^$important
 @@||blockscout-merits-images.s3.us-east-1.amazonaws.com^$important
 @@||blog.monerica.com^$important
+@@||blogs.cisco.com^$important
 @@||booksrun.com^$important
 @@||brave-browser-apt-release.s3.brave.com^$important
 @@||brave-core-ext.s3.brave.com^$important
@@ -107,6 +113,7 @@
 @@||cdn.jsdelivr.net^$important
 @@||cdn.kissasia.cc^$important
 @@||cdn.prod.website-files.com^$important
+@@||cdn.remarkable.com^$important
 @@||cdn.samsungcloudsolution.com^$important
 @@||cdn.sanity.io^$important
 @@||cdn.segment.com^$important
@@ -169,6 +176,7 @@
 @@||discuss-cdn.kde.org^$important
 @@||discuss.kde.org^$important
 @@||dns10.quad9.net^$important
+@@||doc-*-*-apps-viewer.googleusercontent.com^$important
 @@||doc-*-58-apps-viewer.googleusercontent.com^$important
 @@||docker.io^$important
 @@||dockerstatic.com^$important
@@ -189,6 +197,11 @@
 @@||encrypted-tbn0.gstatic.com^$important
 @@||engagement.mobilesms.io^$important
 @@||entitlements.jwplayer.com^$important
+@@||esim-go.com^$important
+@@||esim.holafly.com^$important
+@@||esim.me^$important
+@@||esimgo.com^$important
+@@||esimplus.me^$important
 @@||esm.ubuntu.com^$important
 @@||etherscan.io^$important
 @@||events.launchdarkly.com^$important
@@ -223,6 +236,7 @@
 @@||github.io^$important
 @@||githubusercontent.com^$important
 @@||gladdendesign.com^$important
+@@||global.cmlink.com^$important
 @@||gmail.com^$important
 @@||go-updater-1830831421.us-west-2.elb.amazonaws.com^$important
 @@||go-updater.brave.com^$important
@@ -266,6 +280,8 @@
 @@||inaturalist.nz^$important
 @@||infura.io^$important
 @@||infura.org^$important
+@@||ingest.sentry.io^$important
+@@||ingest.us.sentry.io^$important
 @@||ingress.pdisoftware.auth0app.com.cdn.cloudflare.net^$important
 @@||instagram.c10r.instagram.com^$important
 @@||insurifycdn.com^$important
@@ -349,6 +365,7 @@
 @@||minecraft.net^$important
 @@||minecraft.wiki^$important
 @@||minecraftservices.com^$important
+@@||mintmobile.com^$important
 @@||mirror.accum.se^$important
 @@||mirrors.dotsrc.org^$important
 @@||mmx-ds.cdn.whatsapp.net^$important
@@ -364,6 +381,7 @@
 @@||mullvad.net^$important
 @@||multiembed.mov^$important
 @@||my.microsoftpersonalcontent.com^$important
+@@||my.remarkable.com^$important
 @@||myaccount.google.com^$important
 @@||mzksync.io^$important
 @@||naver-vod.akamaized.net^$important
@@ -428,7 +446,9 @@
 @@||phinf.pstatic.net^$important
 @@||phishing.army^$important
 @@||phl00*-ix.1.oca.nflxvideo.net^$important
+@@||pi-apps.io^$important
 @@||pistona.xyz^$important
+@@||piwik.pro^$important
 @@||pkgs.tailscale.com^$important
 @@||places.googleapis.com^$important
 @@||play.google.com^$important
@@ -442,6 +462,7 @@
 @@||preview.redd.it^$important
 @@||printmycalendar.com^$important
 @@||prismlauncher.org^$important
+@@||privacy-mgmt.com^$important
 @@||privacy.com^$important
 @@||prod-default.lb.logrocket.network^$important
 @@||prodlb.siteintercept.qualtrics.com.cdn.cloudflare.net^$important
@@ -471,6 +492,7 @@
 @@||redditmedia.com^$important
 @@||redshelf-images.s3-external-1.amazonaws.com^$important
 @@||redshelf.com^$important
+@@||redteago.com^$important
 @@||referrals.brave.com^$important
 @@||relay.walletconnect.org^$important
 @@||release-assets.githubusercontent.com^$important
@@ -600,12 +622,14 @@
 @@||unpkg.com^$important
 @@||update.microsoft.com^$important
 @@||updates.nextcloud.org^$important
+@@||ups.com^$important
 @@||urlhaus.abuse.ch^$important
 @@||us-west-2.amazonaws.com^$important
 @@||us.archive.ubuntu.com^$important
 @@||us.document360.io^$important
 @@||us.mova.tech^$important
 @@||us.narwal.com^$important
+@@||usaa.com^$important
 @@||usajobs.gov^$important
 @@||use.typekit.net^$important
 @@||userservices.vip.symantec.com^$important
@@ -643,6 +667,7 @@
 @@||we5gbhv7zbfllkkvqgumiyyvyy.appsync-api.us-east-2.amazonaws.com^$important
 @@||web-assets.cdn4dd.com^$important
 @@||web-chat-e2ee.facebook.com^$important
+@@||web.eu.tectonic.remarkable.com^$important
 @@||web.facebook.com^$important
 @@||web.prod.cloud.netflix.com^$important
 @@||web.whatsapp.com^$important
@@ -669,6 +694,7 @@
 @@||www.apartments.com^$important
 @@||www.applebees.com^$important
 @@||www.bark.us^$important
+@@||www.bics.com^$important
 @@||www.brother-usa.com^$important
 @@||www.chegg.com^$important
 @@||www.chinesecalendaronline.com^$important
@@ -714,6 +740,7 @@
 @@||www.netify.ai^$important
 @@||www.nhs.uk^$important
 @@||www.ntppool.org^$important
+@@||www.numeroesim.com^$important
 @@||www.obooko.com^$important
 @@||www.oklink.com^$important
 @@||www.online-convert.com^$important
@@ -736,15 +763,19 @@
 @@||www.recaptcha.net^$important
 @@||www.reddit.com^$important
 @@||www.redditstatic.com^$important
+@@||www.remarkable.com^$important
 @@||www.ronanliving.com^$important
 @@||www.shell.us^$important
 @@||www.solvusoft.com^$important
 @@||www.speedtest.net^$important
 @@||www.tarranttaxinfo.com^$important
+@@||www.tatacommunications.com^$important
 @@||www.taxbit.com^$important
+@@||www.telna.com^$important
 @@||www.tenorshare.com^$important
 @@||www.timeanddate.com^$important
 @@||www.truenas.com^$important
+@@||www.truphone.com^$important
 @@||www.tsa.gov^$important
 @@||www.twingate.com^$important
 @@||www.ubuntu.com^$important
@@ -759,6 +790,7 @@
 @@||www.vscode-unpkg.net^$important
 @@||www.w3schools.io^$important
 @@||www.weather.gov^$important
+@@||www.wgtwo.com^$important
 @@||www.whatdowedoallday.com^$important
 @@||www.whatsapp.com^$important
 @@||www.yakibooki.com^$important
@@ -777,7 +809,9 @@
 @@||yumpu.com^$important
 @@||yuzu-emu.org^$important
 @@||z-library.sk^$important
+@@||zdassets.com^$important
 @@||zebec.io^$important
 @@||zendesk.com^$important
 @@||znmx.mv36bbcfa.site^$important
+@@||zopim.com^$important
 @||accounts.google.com^$important
