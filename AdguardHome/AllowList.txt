@@ -71,11 +71,13 @@
 @@||auth.zillowhomeloans.com^$important
 @@||avatars.githubusercontent.com^$important
 @@||b-graph.facebook.com^$important
+@@||b4mcx2ml.net^$important
 @@||balancer-234389748.us-east-2.elb.amazonaws.com^$important
 @@||base.org^$important
 @@||basicattentiontoken.org^$important
 @@||bayareadentalaberdeen.com^$important
 @@||bbb.org^$important
+@@||bible.com^$important
 @@||bigbluebutton.org^$important
 @@||bitwarden.com^$important
 @@||blackboard.com^$important
@@ -165,6 +167,7 @@
 @@||desktop.docker.com^$important
 @@||developer.android.com^$important
 @@||dh1y47vf5ttia.cloudfront.net^$important
+@@||dictionary.cambridge.org^$important
 @@||discord-attachments-uploads-prd.storage.googleapis.com^$important
 @@||discord.com^$important
 @@||discord.gg^$important
@@ -192,6 +195,7 @@
 @@||eaton.com^$important
 @@||ebooks.com^$important
 @@||ebooks.stackexchange.com^$important
+@@||ecom.store.remarkable.com^$important
 @@||edge-chat.facebook.com^$important
 @@||edge-chat.instagram.com^$important
 @@||encrypted-tbn0.gstatic.com^$important
@@ -206,6 +210,7 @@
 @@||etherscan.io^$important
 @@||events.launchdarkly.com^$important
 @@||excel.cloud.microsoft^$important
+@@||exchange-api.gnome.org^$important
 @@||explorer-api.walletconnect.com^$important
 @@||extensionupdater.brave.com^$important
 @@||external-preview.redd.it^$important
@@ -496,6 +501,7 @@
 @@||referrals.brave.com^$important
 @@||relay.walletconnect.org^$important
 @@||release-assets.githubusercontent.com^$important
+@@||releases.obsidian.md^$important
 @@||reliantenergyretails.tt.omtrdc.net^$important
 @@||remarcal.com^$important
 @@||rentcafe.com^$important
@@ -505,6 +511,7 @@
 @@||rewards.brave.com^$important
 @@||rewards.exxon.com^$important
 @@||rexdl.com^$important
+@@||rickriordan.com^$important
 @@||rmcnmv.akamaized.net^$important
 @@||robinhood.com^$important
 @@||ronanliving.com^$important
