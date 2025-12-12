@@ -34,6 +34,7 @@
 @@||animekai.bz^$important
 @@||animekai.to^$important
 @@||annas-archive.org^$important
+@@||anyconv.com^$important
 @@||api-bcb54897.duosecurity.com^$important
 @@||api-exxon-prod.clm-comarch.com^$important
 @@||api-global.netflix.com^$important
@@ -138,6 +139,7 @@
 @@||clientstream.launchdarkly.com^$important
 @@||cloaked.app^$important
 @@||cloaked.com^$important
+@@||cloudconvert.com^$important
 @@||cloudflare.docker.com^$important
 @@||cloudfront.net^$important
 @@||cloudnestra.com^$important
@@ -148,6 +150,8 @@
 @@||community.spiceworks.com^$important
 @@||content-autofill.googleapis.com^$important
 @@||convert.guru^$important
+@@||converter.app^$important
+@@||convertio.co^$important
 @@||craftcloud3d.com^$important
 @@||creditkarma.com^$important
 @@||creditkarmacdn-a.akamaihd.net^$important
@@ -187,6 +191,7 @@
 @@||doordash.com^$important
 @@||dotnet.microsoft.com^$important
 @@||downdetector.com^$important
+@@||drive-thirdparty.googleusercontent.com^$important
 @@||drive.google.com^$important
 @@||duckduckgo.com^$important
 @@||dyson-h.assetsadobe2.com^$important
@@ -217,6 +222,8 @@
 @@||exxon-us.app.link^$important
 @@||f-droid.org^$important
 @@||fedex.com^$important
+@@||file-converter.en.softonic.com^$important
+@@||file-converter.org^$important
 @@||filestar.com^$important
 @@||finance^$important
 @@||fjdpxu27ml.execute-api.us-east-2.amazonaws.com^$important
@@ -225,6 +232,7 @@
 @@||fonts.googleapis.com^$important
 @@||fonts.gstatic.com^$important
 @@||frame.work^$important
+@@||freeconvert.com^$important
 @@||freshchat.com^$important
 @@||freshworksapi.com^$important
 @@||fs.microsoft.com^$important
@@ -355,6 +363,7 @@
 @@||maxcdn.bootstrapcdn.com^$important
 @@||maximumfx.nl^$important
 @@||mblogthumb4.phinf.naver.net^$important
+@@||mconverter.eu^$important
 @@||media-amazon.com^$important
 @@||meet.no42.org^$important
 @@||mega.co.nz^$important
@@ -376,6 +385,7 @@
 @@||mmx-ds.cdn.whatsapp.net^$important
 @@||mobile.events.data.microsoft.com^$important
 @@||mojang.com^$important
+@@||momot.rs^$important
 @@||moto-cds.appspot.com^$important
 @@||movhub.ws^$important
 @@||moviekhhd.biz^$important
@@ -423,6 +433,8 @@
 @@||omaps.app^$important
 @@||omnicalculator.com^$important
 @@||one.one.one.one^$important
+@@||online-convert.com^$important
+@@||online2pdf.com^$important
 @@||open.umn.edu^$important
 @@||openlibrary.org^$important
 @@||openpgp.org^$important
@@ -452,6 +464,7 @@
 @@||phishing.army^$important
 @@||phl00*-ix.1.oca.nflxvideo.net^$important
 @@||pi-apps.io^$important
+@@||ping.remarkable.com^$important
 @@||pistona.xyz^$important
 @@||piwik.pro^$important
 @@||pkgs.tailscale.com^$important
@@ -490,6 +503,7 @@
 @@||rapidshare.cc^$important
 @@||raspberrypi.com^$important
 @@||raw.githubusercontent.com^$important
+@@||rclone.org^$important
 @@||realpage.com^$important
 @@||recalendar.me^$important
 @@||reddit-uploaded-media.s3-accelerate.amazonaws.com^$important
@@ -551,8 +565,10 @@
 @@||simplelogin.com^$important
 @@||simplelogin.io^$important
 @@||siteintercept.qualtrics.com^$important
+@@||smallpdf.com^$important
 @@||smartasset.com^$important
 @@||smtp.*.com^$important
+@@||snappaydirectapi.fiserv.com^$important
 @@||snews.app^$important
 @@||software.download.prss.microsoft.com^$important
 @@||solana.p2p.org^$important
@@ -595,6 +611,7 @@
 @@||strmup.cc^$important
 @@||support.microsoft.com^$important
 @@||support.mozilla.org^$important
+@@||support.remarkable.com^$important
 @@||syncthing.net^$important
 @@||t1.daumcdn.net^$important
 @@||t1.kakaocdn.net^$important
@@ -646,6 +663,7 @@
 @@||vanillatweaks.net^$important
 @@||varomoney.com^$important
 @@||venmo.com^$important
+@@||vert.sh^$important
 @@||victorysupplyco.com^$important
 @@||vidsrc-embed.ru^$important
 @@||vidsrc.me^$important
@@ -705,6 +723,8 @@
 @@||www.brother-usa.com^$important
 @@||www.chegg.com^$important
 @@||www.chinesecalendaronline.com^$important
+@@||www.comicbookherald.com^$important
+@@||www.convertfiles.com^$important
 @@||www.crucial.com^$important
 @@||www.davenportbookstore.com^$important
 @@||www.delta.com^$important
@@ -725,6 +745,7 @@
 @@||www.gmail.com^$important
 @@||www.google.com^$important
 @@||www.googleapis.com^$important
+@@||www.googletagmanager.com^$important
 @@||www.gov.uk^$important
 @@||www.gstatic.com^$important
 @@||www.hunsn.com^$important
@@ -737,6 +758,7 @@
 @@||www.mayoclinic.org^$important
 @@||www.merriam-webster.com^$important
 @@||www.microsoft.com^$important
+@@||www.midtowncomics.com^$important
 @@||www.minecraftforum.net^$important
 @@||www.money-education.com^$important
 @@||www.mybaba.com^$important
@@ -748,6 +770,7 @@
 @@||www.nhs.uk^$important
 @@||www.ntppool.org^$important
 @@||www.numeroesim.com^$important
+@@||www.nytimes.com^$important
 @@||www.obooko.com^$important
 @@||www.oklink.com^$important
 @@||www.online-convert.com^$important
@@ -785,6 +808,7 @@
 @@||www.truphone.com^$important
 @@||www.tsa.gov^$important
 @@||www.twingate.com^$important
+@@||www.txdmv.gov^$important
 @@||www.ubuntu.com^$important
 @@||www.urban-vpn.com^$important
 @@||www.urbandictionary.com^$important
