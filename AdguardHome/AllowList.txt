@@ -692,7 +692,6 @@
 @@||web.facebook.com^$important
 @@||web.prod.cloud.netflix.com^$important
 @@||web.whatsapp.com^$important
-@@||webapp-prod.cloud.remarkable.engineering^$important
 @@||whatsmyname.app^$important
 @@||who.is^$important
 @@||widget.trustpilot.com^$important
@@ -715,11 +714,9 @@
 @@||www.android.com^$important
 @@||www.apartments.com^$important
 @@||www.applebees.com^$important
-@@||www.auth.remarkable.com^$important
 @@||www.bark.us^$important
 @@||www.bics.com^$important
 @@||www.brother-usa.com^$important
-@@||www.cdn.remarkable.com^$important
 @@||www.chegg.com^$important
 @@||www.chinesecalendaronline.com^$important
 @@||www.comicbookherald.com^$important
@@ -731,7 +728,6 @@
 @@||www.dyson.com^$important
 @@||www.easyuefi.com^$important
 @@||www.ebook-converter.com^$important
-@@||www.ecom.store.remarkable.com^$important
 @@||www.efax.com^$important
 @@||www.etsy.com^$important
 @@||www.exxon.com^$important
@@ -741,7 +737,6 @@
 @@||www.fuelrewards.com
 @@||www.fuelrewards.com^$important
 @@||www.generalblue.com^$important
-@@||www.get-updates.cloud.remarkable.engineering
 @@||www.github.com^$important
 @@||www.gmail.com^$important
 @@||www.google.com^$important
@@ -762,7 +757,6 @@
 @@||www.midtowncomics.com^$important
 @@||www.minecraftforum.net^$important
 @@||www.money-education.com^$important
-@@||www.my.remarkable.com^$important
 @@||www.mybaba.com^$important
 @@||www.mydav.org^$important
 @@||www.nationalunderwriter.com^$important
@@ -795,7 +789,6 @@
 @@||www.recaptcha.net^$important
 @@||www.reddit.com^$important
 @@||www.redditstatic.com^$important
-@@||www.remarkable.com^$important
 @@||www.ronanliving.com^$important
 @@||www.shell.us^$important
 @@||www.solvusoft.com^$important
@@ -823,7 +816,6 @@
 @@||www.vscode-unpkg.net^$important
 @@||www.w3schools.io^$important
 @@||www.weather.gov^$important
-@@||www.web.eu.tectonic.remarkable.com^$important
 @@||www.wgtwo.com^$important
 @@||www.whatdowedoallday.com^$important
 @@||www.whatsapp.com^$important
