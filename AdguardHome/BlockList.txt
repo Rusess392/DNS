@@ -6,6 +6,7 @@
 ||adsrvr.org^$important
 ||analytics-alv.google.com^$important
 ||app-analytics-services.com^$important
+||appspot.com^$important
 ||attester.gateway.icloud.com^$important
 ||azure.com^$important
 ||b-dc-msedge.net^$important
@@ -17,7 +18,7 @@
 ||duckduckgo.com^$important
 ||fe2.apple-dns.net^$important
 ||firefox.com^$important
-||flashtalking.com^$important
+||flashtalking.com^$impo>rtant
 ||github.com^$important
 ||gocarrot.com^$important
 ||imgbox.com^$important
@@ -35,6 +36,9 @@
 ||ntp.ubuntu.com^$important
 ||qwant.com^$important
 ||reddit.com^$important
+||remarkable.com^$important
+||remarkable.engineering^$important
+||rmfakecloud.localhost^$important
 ||snapcraft.io^$important
 ||startpage.com^$important
 ||surveymonkey.com^$important
@@ -48,4 +52,3 @@
 ||vidyard.com^$important
 ||www.googleadservices.com^$important
 ||www.googleapis.com^$important
-||remarkable.com^$important

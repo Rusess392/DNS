@@ -1,1 +1,5 @@
+||appspot.com^$important
+||local.appspot.com^$important
 ||remarkable.com^$important
+||remarkable.engineering^$important
+||rmfakecloud.localhost^$important
