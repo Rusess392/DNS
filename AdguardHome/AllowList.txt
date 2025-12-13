@@ -191,6 +191,7 @@
 @@||downdetector.com^$important
 @@||drive-thirdparty.googleusercontent.com^$important
 @@||drive.google.com^$important
+@@||drivefrontend-pa.clients6.google.com^$important
 @@||duckduckgo.com^$important
 @@||dyson-h.assetsadobe2.com^$important
 @@||e.mail.comms.yahoo.net^$important
@@ -617,6 +618,7 @@
 @@||texas.gov^$important
 @@||thatsthem.com^$important
 @@||thepiratebay.org^$important
+@@||thepopculturestudio.com^$important
 @@||time.android.com^$important
 @@||time.samsungcloudsolution.com^$important
 @@||tms.usaa.com^$important
