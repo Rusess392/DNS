@@ -67,7 +67,6 @@
 @@||auth.fuelrewards.com^$important
 @@||auth.openai.com^$important
 @@||auth.privy.io^$important
-@@||auth.remarkable.com^$important
 @@||auth.split.io^$important
 @@||auth.zillowhomeloans.com^$important
 @@||avatars.githubusercontent.com^$important
@@ -116,7 +115,6 @@
 @@||cdn.jsdelivr.net^$important
 @@||cdn.kissasia.cc^$important
 @@||cdn.prod.website-files.com^$important
-@@||cdn.remarkable.com^$important
 @@||cdn.samsungcloudsolution.com^$important
 @@||cdn.sanity.io^$important
 @@||cdn.segment.com^$important
@@ -200,7 +198,6 @@
 @@||eaton.com^$important
 @@||ebooks.com^$important
 @@||ebooks.stackexchange.com^$important
-@@||ecom.store.remarkable.com^$important
 @@||edge-chat.facebook.com^$important
 @@||edge-chat.instagram.com^$important
 @@||encrypted-tbn0.gstatic.com^$important
@@ -396,7 +393,6 @@
 @@||mullvad.net^$important
 @@||multiembed.mov^$important
 @@||my.microsoftpersonalcontent.com^$important
-@@||my.remarkable.com^$important
 @@||myaccount.google.com^$important
 @@||mzksync.io^$important
 @@||naver-vod.akamaized.net^$important
@@ -464,7 +460,6 @@
 @@||phishing.army^$important
 @@||phl00*-ix.1.oca.nflxvideo.net^$important
 @@||pi-apps.io^$important
-@@||ping.remarkable.com^$important
 @@||pistona.xyz^$important
 @@||piwik.pro^$important
 @@||pkgs.tailscale.com^$important
@@ -516,7 +511,7 @@
 @@||relay.walletconnect.org^$important
 @@||release-assets.githubusercontent.com^$important
 @@||releases.obsidian.md^$important
-@@||reliantenergyretails.tt.omtrdc.net^$important
+@@||reliantenergyretails.tt.omtrdc.net^$import
 @@||remarcal.com^$important
 @@||rentcafe.com^$important
 @@||report.error-report.com^$important
@@ -611,7 +606,6 @@
 @@||strmup.cc^$important
 @@||support.microsoft.com^$important
 @@||support.mozilla.org^$important
-@@||support.remarkable.com^$important
 @@||syncthing.net^$important
 @@||t1.daumcdn.net^$important
 @@||t1.kakaocdn.net^$important
@@ -692,7 +686,6 @@
 @@||we5gbhv7zbfllkkvqgumiyyvyy.appsync-api.us-east-2.amazonaws.com^$important
 @@||web-assets.cdn4dd.com^$important
 @@||web-chat-e2ee.facebook.com^$important
-@@||web.eu.tectonic.remarkable.com^$important
 @@||web.facebook.com^$important
 @@||web.prod.cloud.netflix.com^$important
 @@||web.whatsapp.com^$important
@@ -793,7 +786,6 @@
 @@||www.recaptcha.net^$important
 @@||www.reddit.com^$important
 @@||www.redditstatic.com^$important
-@@||www.remarkable.com^$important
 @@||www.ronanliving.com^$important
 @@||www.shell.us^$important
 @@||www.solvusoft.com^$important
