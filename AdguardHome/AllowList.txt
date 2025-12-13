@@ -248,6 +248,7 @@
 @@||githubusercontent.com^$important
 @@||gladdendesign.com^$important
 @@||global.cmlink.com^$important
+@@||globalrecordings.net^$important
 @@||gmail.com^$important
 @@||go-updater-1830831421.us-west-2.elb.amazonaws.com^$important
 @@||go-updater.brave.com^$important
@@ -612,6 +613,7 @@
 @@||t1.daumcdn.net^$important
 @@||t1.kakaocdn.net^$important
 @@||tailscale.com^$important
+@@||takeout-download-drive.usercontent.google.com^$important
 @@||talk-pilsner-1bxx2m3t.kgslb.com^$important
 @@||talk-pilsner.kakao.com^$important
 @@||talk-shareex.kakao.com^$important
