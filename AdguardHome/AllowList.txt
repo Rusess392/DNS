@@ -485,6 +485,7 @@
 @@||proof.com^$important
 @@||protonvpn.com^$important
 @@||pstatic.net.nheos.com^$important
+@@||publi@@||4spromax.site^$important
 @@||public.onecdn.static.microsoft^$important
 @@||publicnode.com^$important
 @@||pump.fun^$important
@@ -847,4 +848,5 @@
 @@||zendesk.com^$important
 @@||znmx.mv36bbcfa.site^$important
 @@||zopim.com^$important
+@||accounts.google.com^$importancnode.com^$important
 @||accounts.google.com^$important
