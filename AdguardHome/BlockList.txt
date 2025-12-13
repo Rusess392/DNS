@@ -47,4 +47,5 @@
 ||unifi^$important
 ||vidyard.com^$important
 ||www.googleadservices.com^$important
-||www.googleapis.com
+||www.googleapis.com^$important
+||remarkable.com^$important
