@@ -3,3 +3,4 @@
 ||remarkable.com^$important
 ||remarkable.engineering^$important
 ||rmfakecloud.localhost^$important
+||unifi^$important
