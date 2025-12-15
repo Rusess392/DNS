@@ -278,6 +278,7 @@
 @@||i.ytimg.com^$important
 @@||i*.ytimg.com^$important
 @@||i0.wp.com^$important
+@@||icann.org^$important
 @@||ichnaea.netflix.com^$important
 @@||id.me^$important
 @@||image.tmdb.org^$important
@@ -377,6 +378,7 @@
 @@||minecraft.fandom.com^$important
 @@||minecraft.net^$important
 @@||minecraft.wiki^$important
+@@||minecraftservers.org^$important
 @@||minecraftservices.com^$important
 @@||mintmobile.com^$important
 @@||mirror.accum.se^$important
@@ -532,6 +534,7 @@
 @@||rr4---sn-ab5l6nrl.googlevideo.com^$important
 @@||rufus.ie^$important
 @@||s-cdn.anthropic.com^$important
+@@||s.turbifycdn.com^$important
 @@||s.w-x.co^$important
 @@||s3-design-language-system.cdn4dd.com^$important
 @@||s3-us-gov-*-*.amazonaws.com^$important
@@ -746,6 +749,7 @@
 @@||www.googletagmanager.com^$important
 @@||www.gov.uk^$important
 @@||www.gstatic.com^$important
+@@||www.hanbooks.com^$important
 @@||www.hunsn.com^$important
 @@||www.imagetotext.info^$important
 @@||www.instagram.com^$important
@@ -791,6 +795,7 @@
 @@||www.recaptcha.net^$important
 @@||www.reddit.com^$important
 @@||www.redditstatic.com^$important
+@@||www.remarkable.com^$important
 @@||www.ronanliving.com^$important
 @@||www.shell.us^$important
 @@||www.solvusoft.com^$important
