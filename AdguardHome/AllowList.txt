@@ -612,6 +612,7 @@
 @@||strmup.cc^$important
 @@||support.microsoft.com^$important
 @@||support.mozilla.org^$important
+@@||support.remarkable.com^$important
 @@||syncthing.net^$important
 @@||t1.daumcdn.net^$important
 @@||t1.kakaocdn.net^$important
