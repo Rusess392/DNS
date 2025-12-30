@@ -269,7 +269,6 @@
 @@||hgasm*.com^$important
 @@||hide.me^$important
 @@||hilton.com^$important
-@@||homesteadcraft.com^$important
 @@||hosts.ooklaserver.net^$important
 @@||hub.docker.com^$important
 @@||i.creativecommons.org^$important
