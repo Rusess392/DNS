@@ -298,7 +298,9 @@
 @@||ingress.pdisoftware.auth0app.com.cdn.cloudflare.net^$important
 @@||instagram.c10r.instagram.com^$important
 @@||insurifycdn.com^$important
+@@||intercom.help^$important
 @@||intercom.io^$important
+@@||intercomcdn.com^$important
 @@||invent.kde.org^$important
 @@||ip6.arpa^$importanta^$important
 @@||ipostal1.com^$important
@@ -350,6 +352,8 @@
 @@||m.youtube.com^$important
 @@||m1-production-documents.s3.us-east-1.amazonaws.com^$important
 @@||m1.com^$important
+@@||m1finance.com^$important
+@@||m1finance.sendsafely.com^$important
 @@||m365.cloud.microsoft^$important
 @@||mail.*.com^$important
 @@||mail.onelink.me^$important
