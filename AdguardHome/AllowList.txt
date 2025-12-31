@@ -1,7 +1,6 @@
 @@||4spromax.site^$important
 @@||a.fsdn.com^$important
 @@||aadcdn.msftauth.net^$important
-@@||aaplimg.com^$important
 @@||accdn.lpsnmedia.net^$important
 @@||account.microsoft.com^$important
 @@||accountcheckupwiz.msdx.microsoft.com^$important
@@ -41,12 +40,10 @@
 @@||api-v3.raydium.io^$important
 @@||api.mapbox.com^$important
 @@||apis.google.com^$important
-@@||app-site-association.cdn-apple.com^$important
 @@||app.docupost.com^$important
 @@||app.launchdarkly.com^$important
 @@||app.optibase.io^$important
 @@||appgrooves.com^$important
-@@||apple.com^$important
 @@||apps.kde.org^$important
 @@||apps.microsoft.com^$important
 @@||appstream.ubuntu.com^$important
@@ -496,7 +493,6 @@
 @@||publicnode.com^$important
 @@||pump.fun^$important
 @@||purenestdynamics.xyz^$important
-@@||push-apple.com.akadns.net^$important
 @@||putgate.org^$important
 @@||puzzle.plus^$important
 @@||puzzlebooksplus.com^$important
