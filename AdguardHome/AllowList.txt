@@ -74,6 +74,7 @@
 @@||basicattentiontoken.org^$important
 @@||bayareadentalaberdeen.com^$important
 @@||bbb.org^$important
+@@||best-minecraft-servers.co^$important
 @@||bible.com^$important
 @@||bigbluebutton.org^$important
 @@||bitwarden.com^$important
@@ -138,6 +139,7 @@
 @@||cloudflare.docker.com^$important
 @@||cloudfront.net^$important
 @@||cloudnestra.com^$important
+@@||code.jquery.com^$important
 @@||cognito-idp.us-east-2.amazonaws.com^$important
 @@||coinbase.com^$important
 @@||coingecko.com^$important
@@ -374,6 +376,7 @@
 @@||megaup22.online^$important
 @@||mem.gfx.ms^$important
 @@||mform.net^$important
+@@||minecraft-mp.com^$important
 @@||minecraft-services.net^$important
 @@||minecraft.fandom.com^$important
 @@||minecraft.net^$important
@@ -786,6 +789,7 @@
 @@||www.pennydellpuzzles.com^$important
 @@||www.perlego.com^$important
 @@||www.pickupplease.org^$important
+@@||www.planetminecraft.com^$important
 @@||www.playworks.org^$important
 @@||www.portainer.io^$important
 @@||www.privateinternetaccess.com^$important
@@ -797,6 +801,7 @@
 @@||www.redditstatic.com^$important
 @@||www.remarkable.com^$important
 @@||www.ronanliving.com^$important
+@@||www.serverpact.com^$important
 @@||www.shell.us^$important
 @@||www.solvusoft.com^$important
 @@||www.speedtest.net^$important
@@ -847,5 +852,4 @@
 @@||zendesk.com^$important
 @@||znmx.mv36bbcfa.site^$important
 @@||zopim.com^$important
-@||accounts.google.com^$importancnode.com^$important
 @||accounts.google.com^$important
