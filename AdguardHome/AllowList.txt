@@ -38,7 +38,9 @@
 @@||api-exxon-prod.clm-comarch.com^$important
 @@||api-global.netflix.com^$important
 @@||api-v3.raydium.io^$important
+@@||api.cloudflare.com^$important
 @@||api.mapbox.com^$important
+@@||api.weaveconnect.com^$important
 @@||apis.google.com^$important
 @@||app.docupost.com^$important
 @@||app.launchdarkly.com^$important
@@ -82,6 +84,7 @@
 @@||blackboardcdn.com^$important
 @@||blazecraftedworks.xyz^$important
 @@||blockscout-merits-images.s3.us-east-1.amazonaws.com^$important
+@@||blog.domdomsoft.com^$important
 @@||blog.monerica.com^$important
 @@||blogs.cisco.com^$important
 @@||booksrun.com^$important
@@ -122,6 +125,7 @@
 @@||chainid.network^$important
 @@||challenges.cloudflare.com^$important
 @@||charlieacademy.org^$important
+@@||chrome-stats.com^$important
 @@||chrome.google.com^$important
 @@||chromewebstore.google.com^$important
 @@||claude.ai^$important
@@ -136,6 +140,7 @@
 @@||cloaked.app^$important
 @@||cloaked.com^$important
 @@||cloudconvert.com^$important
+@@||cloudflare.com^$important
 @@||cloudflare.docker.com^$important
 @@||cloudfront.net^$important
 @@||cloudnestra.com^$important
@@ -150,6 +155,8 @@
 @@||converter.app^$important
 @@||convertio.co^$important
 @@||craftcloud3d.com^$important
+@@||craftingstore.net^$important
+@@||craftlist.org^$important
 @@||creditkarma.com^$important
 @@||creditkarmacdn-a.akamaihd.net^$important
 @@||crl3.digicert.com^$important
@@ -162,6 +169,7 @@
 @@||dav.org^$important
 @@||davenport.edu^$important
 @@||dcmc.co.kr^$important
+@@||deepsync.com^$important
 @@||definitionupdates.microsoft.com^$important
 @@||delta.com^$important
 @@||dentistinaberdeen.com^$important
@@ -179,6 +187,7 @@
 @@||discover.com^$important
 @@||discuss-cdn.kde.org^$important
 @@||discuss.kde.org^$important
+@@||dl.google.com^$important
 @@||dns10.quad9.net^$important
 @@||doc-*-*-apps-viewer.googleusercontent.com^$important
 @@||doc-*-58-apps-viewer.googleusercontent.com^$important
@@ -192,6 +201,7 @@
 @@||drive.google.com^$important
 @@||drivefrontend-pa.clients6.google.com^$important
 @@||duckduckgo.com^$important
+@@||dynamic-manifest.hulustream.com^$important
 @@||dyson-h.assetsadobe2.com^$important
 @@||e.mail.comms.yahoo.net^$important
 @@||e11290.dspg.akamaiedge.net^$important
@@ -218,13 +228,16 @@
 @@||external-preview.redd.it^$important
 @@||exxon-us.app.link^$important
 @@||f-droid.org^$important
+@@||fandom.com^$important
 @@||fedex.com^$important
 @@||file-converter.en.softonic.com^$important
 @@||file-converter.org^$important
+@@||files.pythonhosted.org^$important
 @@||filestar.com^$important
 @@||finance^$important
 @@||fjdpxu27ml.execute-api.us-east-2.amazonaws.com^$important
 @@||flathub.org^$important
+@@||flowfocustools.com^$important
 @@||fontawesome.com^$important
 @@||fonts.googleapis.com^$important
 @@||fonts.gstatic.com^$important
@@ -260,6 +273,7 @@
 @@||grapheneos.org^$important
 @@||ground.news^$important
 @@||guce.yahoo.com^$important
+@@||gumroad.com^$important
 @@||habitatsusq.org^$important
 @@||harvest.finance^$important
 @@||hcaptcha.com^$important
@@ -269,7 +283,12 @@
 @@||hide.me^$important
 @@||hilton.com^$important
 @@||hosts.ooklaserver.net^$important
+@@||hot.planeptune.us^$important
 @@||hub.docker.com^$important
+@@||hub.mc-complex.com^$important
+@@||hulu.com^$important
+@@||hulu.playback.edge.bamgrid.com^$important
+@@||hulustream.com^$important
 @@||i.creativecommons.org^$important
 @@||i.etsystatic.com^$important
 @@||i.redd.it^$important
@@ -282,10 +301,12 @@
 @@||image.tmdb.org^$important
 @@||images-na.ssl-images-amazon.com^$important
 @@||images.prismic.io^$important
+@@||images.tenorshare.com^$important
 @@||imap.*.com^$important
 @@||img.cdno.my.id^$important
 @@||img.gatedataimg.com^$important
 @@||img.icdn.my.id^$important
+@@||img.rgstatic.com^$important
 @@||imgur.com^$important
 @@||in-addr.arpa^$important
 @@||inaturalist.nz^$important
@@ -300,6 +321,7 @@
 @@||intercom.io^$important
 @@||intercomcdn.com^$important
 @@||invent.kde.org^$important
+@@||ip-ranges.amazonaws.com^$important
 @@||ip6.arpa^$importanta^$important
 @@||ipostal1.com^$important
 @@||ipv4-c100-phl001-ix.ftl.nflxvideo.net^$important
@@ -320,8 +342,10 @@
 @@||kustomer.help^$important
 @@||l.facebook.com^$important
 @@||laptop-updates.brave.com^$important
+@@||lastonne.com^$important
 @@||lb.nodies.app^$important
 @@||lcprd1.samsungcloudsolution.net^$important
+@@||letsencrypt.org^$important
 @@||lh2.l.google.com^$important
 @@||lh3.google.com^$important
 @@||lh3.googleusercontent.com^$important
@@ -356,6 +380,7 @@
 @@||mail.*.com^$important
 @@||mail.onelink.me^$important
 @@||main.vscode-cdn.net^$important
+@@||mangacrawler.codeplex.com^$important
 @@||maps.*.com^$important
 @@||markperks.com^$important
 @@||mask.icloud.com^$important
@@ -377,6 +402,7 @@
 @@||mem.gfx.ms^$important
 @@||mform.net^$important
 @@||minecraft-mp.com^$important
+@@||minecraft-serverlist.com^$important
 @@||minecraft-services.net^$important
 @@||minecraft.fandom.com^$important
 @@||minecraft.net^$important
@@ -410,6 +436,7 @@
 @@||navyfederalcu.tt.omtrdc.net^$important
 @@||ncognia.com^$important
 @@||netusa.xyz^$important
+@@||newassets.hcaptcha.com^$important
 @@||nexon.com^$important
 @@||nexon.io^$important
 @@||nextcloud.com^$important
@@ -477,6 +504,7 @@
 @@||pool.ntp.org^$important
 @@||portainer-io-assets.sfo2.digitaloceanspaces.com^$important
 @@||ports.ubuntu.com^$important
+@@||ppa.launchpadcontent.net^$important
 @@||premium.urban-vpn.com^$important
 @@||pretendo.network^$important
 @@||preview.redd.it^$important
@@ -493,6 +521,7 @@
 @@||pstatic.net.nheos.com^$important
 @@||publi@@||4spromax.site^$important
 @@||public.onecdn.static.microsoft^$important
+@@||public.rgstatic.com^$important
 @@||publicnode.com^$important
 @@||pump.fun^$important
 @@||purenestdynamics.xyz^$important
@@ -514,6 +543,7 @@
 @@||redshelf-images.s3-external-1.amazonaws.com^$important
 @@||redshelf.com^$important
 @@||redteago.com^$important
+@@||reelgood.com^$important
 @@||referrals.brave.com^$important
 @@||relay.walletconnect.org^$important
 @@||release-assets.githubusercontent.com^$important
@@ -568,6 +598,7 @@
 @@||simplelogin.com^$important
 @@||simplelogin.io^$important
 @@||siteintercept.qualtrics.com^$important
+@@||skyblock.net^$important
 @@||smallpdf.com^$important
 @@||smartasset.com^$important
 @@||smtp.*.com^$important
@@ -599,6 +630,7 @@
 @@||static.netify.ai^$important
 @@||static.oklink.com^$important
 @@||static.whatsapp.net^$important
+@@||static.wikia.nocookie.net^$important
 @@||static2.sharepointonline.com^$important
 @@||steam*.com^$important
 @@||steam*.net^$important
@@ -624,6 +656,7 @@
 @@||talk-pilsner.kakao.com^$important
 @@||talk-shareex.kakao.com^$important
 @@||tangem.com^$important
+@@||temp.compsci88.com^$important
 @@||texas.gov^$important
 @@||thatsthem.com^$important
 @@||thepiratebay.org^$important
@@ -635,6 +668,7 @@
 @@||tonscan.com^$important
 @@||tonscan.org^$important
 @@||tools.usps.com^$important
+@@||topg.org^$important
 @@||torproject.org^$important
 @@||torsnatch.com^$important
 @@||transak.com^$important
@@ -678,6 +712,7 @@
 @@||vitalbook.com^$important
 @@||vitalsource.com^$important
 @@||vlscppe.microsoft.com^$important
+@@||vod-hulu-akc-na.media.dssott.com^$important
 @@||voice.google.com^$important
 @@||voice.l.google.com^$important
 @@||vsassets.io^$important
@@ -700,6 +735,7 @@
 @@||web.facebook.com^$important
 @@||web.prod.cloud.netflix.com^$important
 @@||web.whatsapp.com^$important
+@@||weebcentral.com^$important
 @@||whatsmyname.app^$important
 @@||who.is^$important
 @@||widget.trustpilot.com^$important
@@ -727,6 +763,7 @@
 @@||www.brother-usa.com^$important
 @@||www.chegg.com^$important
 @@||www.chinesecalendaronline.com^$important
+@@||www.chunkbase.com^$important
 @@||www.comicbookherald.com^$important
 @@||www.convertfiles.com^$important
 @@||www.crucial.com^$important
@@ -755,16 +792,21 @@
 @@||www.hanbooks.com^$important
 @@||www.hunsn.com^$important
 @@||www.imagetotext.info^$important
+@@||www.incorp.com^$important
 @@||www.instagram.com^$important
 @@||www.kde.org^$important
 @@||www.last.fm^$important
 @@||www.lookmovie2.to^$important
+@@||www.mangadownloader.com^$important
+@@||www.mangatraders.com^$important
+@@||www.mangaupdates.com^$important
 @@||www.maxemail.com^$important
 @@||www.mayoclinic.org^$important
 @@||www.merriam-webster.com^$important
 @@||www.microsoft.com^$important
 @@||www.midtowncomics.com^$important
 @@||www.minecraftforum.net^$important
+@@||www.minecraftmaps.com^$important
 @@||www.money-education.com^$important
 @@||www.mybaba.com^$important
 @@||www.mydav.org^$important
