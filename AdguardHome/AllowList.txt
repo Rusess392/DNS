@@ -451,6 +451,7 @@
 @@||multiembed.mov^$important
 @@||my.microsoftpersonalcontent.com^$important
 @@||myaccount.google.com^$important
+@@||myanimelist.net^$important
 @@||mzksync.io^$important
 @@||naver-vod.akamaized.net^$important
 @@||naver.com.akadns.net^$important
