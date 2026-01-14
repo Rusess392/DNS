@@ -67,6 +67,7 @@
 @@||auth.fuelrewards.com
 @@||auth.fuelrewards.com^$important
 @@||auth.openai.com^$important
+@@||auth.prd-fgp.memberportal.com^$important
 @@||auth.privy.io^$important
 @@||auth.split.io^$important
 @@||auth.zillowhomeloans.com^$important
@@ -95,6 +96,7 @@
 @@||brave-core-ext.s3.brave.com^$important
 @@||brightcraftedstudio.xyz^$important
 @@||brn30055ce52839.local^$important
+@@||broadwayoms.com^$important
 @@||brother.com^$important
 @@||browser-intake-us3-datadoghq.com^$important
 @@||btcpayserver.org^$important
@@ -111,6 +113,7 @@
 @@||cdn-0.nflximg.com^$important
 @@||cdn-dynmedia-1.microsoft.com^$important
 @@||cdn.auth0.com^$important
+@@||cdn.contentful.com^$important
 @@||cdn.cookielaw.org^$important
 @@||cdn.create.microsoft.com^$important
 @@||cdn.datatables.net^$important
@@ -181,6 +184,9 @@
 @@||deepsync.com^$important
 @@||definitionupdates.microsoft.com^$important
 @@||delta.com^$important
+@@||deltadental.com^$important
+@@||deltadentalca-aem65-prod.adobecqms.net^$important
+@@||deltadentalins.com^$important
 @@||dentistinaberdeen.com^$important
 @@||desktop.docker.com^$important
 @@||developer.android.com^$important
@@ -206,6 +212,7 @@
 @@||doordash.com^$important
 @@||dotnet.microsoft.com^$important
 @@||downdetector.com^$important
+@@||dpm.demdex.net^$important
 @@||drive-thirdparty.googleusercontent.com^$important
 @@||drive.google.com^$important
 @@||drivefrontend-pa.clients6.google.com^$important
@@ -313,6 +320,7 @@
 @@||i.ytimg.com^$important
 @@||i*.ytimg.com^$important
 @@||i0.wp.com^$important
+@@||ibsrv.net^$important
 @@||icann.org^$important
 @@||ichnaea.netflix.com^$important
 @@||id.me^$important
@@ -326,6 +334,7 @@
 @@||img.cdno.my.id^$important
 @@||img.gatedataimg.com^$important
 @@||img.icdn.my.id^$important
+@@||img.mangamirai.com^$important
 @@||img.rgstatic.com^$important
 @@||imgur.com^$important
 @@||in-addr.arpa^$important
@@ -345,6 +354,7 @@
 @@||ip-ranges.amazonaws.com^$important
 @@||ip6.arpa^$importanta^$important
 @@||ipostal1.com^$important
+@@||ipv4-*-*-ix.1.*.nflxvideo.net^$important
 @@||ipv4-c100-phl001-ix.ftl.nflxvideo.net^$important
 @@||ipv4-c150-ewr002-ix.1.oca.nflxvideo.net^$important
 @@||irs.gov^$important
@@ -352,6 +362,7 @@
 @@||jitsi.org^$important
 @@||joovideo.cfd^$important
 @@||js-agent.newrelic.com^$important
+@@||js.authorize.net^$important
 @@||js.stripe.com^$important
 @@||kaios-d.facebook.com^$important
 @@||katalk-fo6ld96d.kgslb.com^$important
@@ -424,6 +435,8 @@
 @@||megaup.site^$important
 @@||megaup22.online^$important
 @@||mem.gfx.ms^$important
+@@||memberportal.com^$important
+@@||metlife.com^$important
 @@||mform.net^$important
 @@||minecraft-mp.com^$important
 @@||minecraft-serverlist.com^$important
@@ -465,6 +478,7 @@
 @@||newassets.hcaptcha.com^$important
 @@||nexon.com^$important
 @@||nexon.io^$important
+@@||next-hub.com^$important
 @@||nextcloud.com^$important
 @@||nextdoor.com^$important
 @@||nodereal.io^$important
@@ -485,6 +499,7 @@
 @@||office.com^$important
 @@||office.net^$important
 @@||official.lowee.us^$important
+@@||officite.com^$important
 @@||ogs.google.com^$important
 @@||oktacdn.com^$important
 @@||old-releases.ubuntu.com^$important
@@ -522,6 +537,7 @@
 @@||pcloud.com^$important
 @@||pdf.wondershare.com^$important
 @@||pentester.com^$important
+@@||penzu.com^$important
 @@||perlego.com^$important
 @@||pgl.yoyo.org^$important
 @@||phinf.pstatic.net^$important
@@ -645,6 +661,7 @@
 @@||skyblock.net^$important
 @@||smallpdf.com^$important
 @@||smartasset.com^$important
+@@||smbleads.ibsmb.com^$important
 @@||smtp.*.com^$important
 @@||snappaydirectapi.fiserv.com^$important
 @@||snews.app^$important
@@ -736,6 +753,7 @@
 @@||update.microsoft.com^$important
 @@||updates.nextcloud.org^$important
 @@||ups.com^$important
+@@||upscope.io^$important
 @@||urlhaus.abuse.ch^$important
 @@||us-east-1.amazonaws.com^$important
 @@||us-west-2.amazonaws.com^$important
@@ -773,6 +791,7 @@
 @@||vsassets.io^$important
 @@||vteximg.com.br^$important
 @@||vtexpayments.com.br^$important
+@@||vxwh97d.ng.impervadns.net^$important
 @@||w-mt.co^$important
 @@||wakefern.com^$important
 @@||wallet.brave.com^$important
@@ -792,6 +811,7 @@
 @@||web.prod.cloud.netflix.com^$important
 @@||web.whatsapp.com^$important
 @@||weebcentral.com^$important
+@@||whatfix.com^$important
 @@||whatsmyname.app^$important
 @@||who.is^$important
 @@||widget.trustpilot.com^$important
@@ -825,6 +845,7 @@
 @@||www.chunkbase.com^$important
 @@||www.comicbookherald.com^$important
 @@||www.convertfiles.com^$important
+@@||www.crossway.org^$important
 @@||www.crucial.com^$important
 @@||www.davenportbookstore.com^$important
 @@||www.delta.com^$important
@@ -838,6 +859,7 @@
 @@||www.facebook.com^$important
 @@||www.fakenamegenerator.com^$important
 @@||www.fbsbx.com^$important
+@@||www.forbes.com^$important
 @@||www.fuelrewards.com
 @@||www.fuelrewards.com^$important
 @@||www.generalblue.com^$important
@@ -850,6 +872,7 @@
 @@||www.gstatic.com^$important
 @@||www.hanbooks.com^$important
 @@||www.hunsn.com^$important
+@@||www.ilovepdf.com^$important
 @@||www.imagetotext.info^$important
 @@||www.incorp.com^$important
 @@||www.instagram.com^$important
@@ -870,6 +893,7 @@
 @@||www.money-education.com^$important
 @@||www.mybaba.com^$important
 @@||www.mydav.org^$important
+@@||www.mysmilecoverage.com^$important
 @@||www.nationalunderwriter.com^$important
 @@||www.navyfederal.org^$important
 @@||www.netflix.com^$important
@@ -891,6 +915,7 @@
 @@||www.pdffiller.com^$important
 @@||www.pennydellpuzzles.com^$important
 @@||www.perlego.com^$important
+@@||www.phreeli.com^$important
 @@||www.pickupplease.org^$important
 @@||www.planetminecraft.com^$important
 @@||www.playworks.org^$important
