@@ -1,6 +1,6 @@
 /\.+[a-zA-Z]{-2,}$/
 /\.+[a-zA-Z]{2,}$/
-||*$denyallow=edu|mil|gov|com|net|wiki|arpa
+||*$denyallow=edu|mil|gov|com|net|wiki|arpa|ts.net
 ||2mdn.net^$important
 ||aaplimg.com^$important
 ||ad.daum.net^$important
