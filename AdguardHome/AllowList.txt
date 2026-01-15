@@ -1,3 +1,4 @@
+@@||*.ts.net^$important
 @@||4spromax.site^$important
 @@||a.fsdn.com^$important
 @@||a2.fox2.online^$important
