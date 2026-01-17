@@ -223,6 +223,7 @@
 @@||e.mail.comms.yahoo.net^$important
 @@||e11290.dspg.akamaiedge.net^$important
 @@||eaton.com^$important
+@@||eb5e7388c3df147b74dd2379b7cf8323.r2.cloudflarestorage.com^$important
 @@||ebooks.com^$important
 @@||ebooks.stackexchange.com^$important
 @@||edge-chat.facebook.com^$important
@@ -713,6 +714,7 @@
 @@||support.mozilla.org^$important
 @@||support.remarkable.com^$important
 @@||syncthing.net^$important
+@@||t.dd.delta.org^$important
 @@||t1.daumcdn.net^$important
 @@||t1.kakaocdn.net^$important
 @@||tailscale.com^$important
@@ -771,6 +773,7 @@
 @@||usps.com^$important
 @@||v.whatsapp.net^$important
 @@||va.gov^$important
+@@||vadip.ddpdelta.org^$important
 @@||vanillatweaks.net^$important
 @@||varomoney.com^$important
 @@||vcm.com^$important
@@ -838,6 +841,7 @@
 @@||www.amazon.com^$important
 @@||www.android.com^$important
 @@||www.apartments.com^$important
+@@||www.apkmirror.com^$important
 @@||www.applebees.com^$important
 @@||www.bark.us^$important
 @@||www.bics.com^$important
