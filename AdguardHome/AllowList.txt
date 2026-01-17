@@ -131,6 +131,7 @@
 @@||cdn*.editmysite.com^$important
 @@||cdn11.bigcommerce.com^$important
 @@||cdnjs.cloudflare.com^$important
+@@||cdp.customer.io^$important
 @@||cf2.quoracdn.net^$important
 @@||chainid.network^$important
 @@||challenges.cloudflare.com^$important
@@ -152,6 +153,7 @@
 @@||cloudconvert.com^$important
 @@||cloudflare.com^$important
 @@||cloudflare.docker.com^$important
+@@||cloudflareinsights.com^$important
 @@||cloudfront.net^$important
 @@||cloudnestra.com^$important
 @@||code.jquery.com^$important
@@ -998,4 +1000,3 @@
 @@||zendesk.com^$important
 @@||znmx.mv36bbcfa.site^$important
 @@||zopim.com^$important
-@||accounts.google.com^$important
