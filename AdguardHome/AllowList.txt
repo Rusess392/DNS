@@ -464,6 +464,7 @@
 @@||mtalk.google.com^$important
 @@||mullvad.net^$important
 @@||multiembed.mov^$important
+@@||my.cloaked.com^$important
 @@||my.microsoftpersonalcontent.com^$important
 @@||myaccount.google.com^$important
 @@||myanimelist.net^$important
@@ -494,6 +495,7 @@
 @@||nrdp.prod.cloud.netflix.com^$important
 @@||nrdp52-appboot.netflix.com^$important
 @@||ntm.pstatic.net^$important
+@@||o418887.ingest.sentry.io^$important
 @@||oauth2.googleapis.com^$important
 @@||oca-api.*-*-*.origin.prodaa.netflix.com^$important
 @@||oca-api.netflix.com^$important
@@ -709,6 +711,7 @@
 @@||streamingworld.xyz^$important
 @@||streetviewpixels-pa.googleapis.com^$important
 @@||stripe.com^$important
+@@||stripecdn.map.fastly.net^$important
 @@||strmup.cc^$important
 @@||support.microsoft.com^$important
 @@||support.mozilla.org^$important
