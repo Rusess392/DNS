@@ -645,6 +645,7 @@
 @@||search.usa.gov^$important
 @@||secure.login.gov^$important
 @@||securehealthform.com^$important
+@@||securemail.delta.org^$important
 @@||security.ubuntu.com^$important
 @@||self-check.portmaster.home.arpa^$important
 @@||self.events.data.microsoft.com^$important
@@ -664,6 +665,7 @@
 @@||smartasset.com^$important
 @@||smbleads.ibsmb.com^$important
 @@||smtp.*.com^$important
+@@||smtp.gmail.com.ts.net^$important
 @@||snappaydirectapi.fiserv.com^$important
 @@||snews.app^$important
 @@||software.download.prss.microsoft.com^$important
