@@ -49,6 +49,7 @@
 @@||app.launchdarkly.com^$important
 @@||app.optibase.io^$important
 @@||appgrooves.com^$important
+@@||applebees.com^$important
 @@||apps.kde.org^$important
 @@||apps.microsoft.com^$important
 @@||appstream.ubuntu.com^$important
@@ -193,6 +194,7 @@
 @@||dentistinaberdeen.com^$important
 @@||desktop.docker.com^$important
 @@||developer.android.com^$important
+@@||devournow.com^$important
 @@||dh1y47vf5ttia.cloudfront.net^$important
 @@||dictionary.cambridge.org^$important
 @@||discord-attachments-uploads-prd.storage.googleapis.com^$important
@@ -219,7 +221,12 @@
 @@||drive-thirdparty.googleusercontent.com^$important
 @@||drive.google.com^$important
 @@||drivefrontend-pa.clients6.google.com^$important
+@@||dropbox-api.arkoselabs.com^$important
+@@||dropbox.com^$important
+@@||dropboxcaptcha.com^$important
+@@||dropboxstatic.com^$important
 @@||duckduckgo.com^$important
+@@||dunkindonuts.com^$important
 @@||dynamic-manifest.hulustream.com^$important
 @@||dyson-h.assetsadobe2.com^$important
 @@||e.mail.comms.yahoo.net^$important
@@ -281,6 +288,7 @@
 @@||getapp.cc^$important
 @@||getbento.com^$important
 @@||ghcr.io^$important
+@@||giphy.com^$important
 @@||github.com^$important
 @@||github.githubassets.com^$important
 @@||github.io^$important
@@ -299,19 +307,23 @@
 @@||graph.facebook.com^$important
 @@||graph.microsoft.com^$important
 @@||grapheneos.org^$important
+@@||greatcollections.com^$important
 @@||ground.news^$important
 @@||guce.yahoo.com^$important
 @@||gumroad.com^$important
 @@||habitatsusq.org^$important
 @@||harvest.finance^$important
 @@||hcaptcha.com^$important
+@@||hcplonline.org^$important
 @@||hellopublic.com^$important
 @@||hentaicity.com^$important
+@@||heritagestatic.com^$important
 @@||hgasm*.com^$important
 @@||hide.me^$important
 @@||hilton.com^$important
 @@||hosts.ooklaserver.net^$important
 @@||hot.planeptune.us^$important
+@@||hpc.freedompay.com^$important
 @@||hub.docker.com^$important
 @@||hub.mc-complex.com^$important
 @@||hulu.com^$important
@@ -340,6 +352,7 @@
 @@||img.icdn.my.id^$important
 @@||img.mangamirai.com^$important
 @@||img.rgstatic.com^$important
+@@||img1.wsimg.com^$important
 @@||imgur.com^$important
 @@||in-addr.arpa^$important
 @@||inaturalist.nz^$important
@@ -375,6 +388,7 @@
 @@||kr.pinterest.com^$important
 @@||kraken.com^$important
 @@||krazydad.com^$important
+@@||krispykreme.com^$important
 @@||kshow123.*^$important
 @@||kustomer.help^$important
 @@||l.facebook.com^$important
@@ -426,6 +440,7 @@
 @@||mastodon.social^$important
 @@||mateoliving.com^$important
 @@||mateusaquino.github.io^$important
+@@||matrix.redditspace.com^$important
 @@||maxcdn.bootstrapcdn.com^$important
 @@||maximumfx.nl^$important
 @@||mblogthumb4.phinf.naver.net^$important
@@ -542,6 +557,7 @@
 @@||paypal.com^$important
 @@||pcloud.com^$important
 @@||pdf.wondershare.com^$important
+@@||pecst02.aurusepay.com^$important
 @@||pentester.com^$important
 @@||penzu.com^$important
 @@||perlego.com^$important
@@ -559,7 +575,9 @@
 @@||polygon-rpc.com^$important
 @@||pool.ntp.org^$important
 @@||portainer-io-assets.sfo2.digitaloceanspaces.com^$important
+@@||portal-applicant-tracking.us-cent.paycomonline.net^$important
 @@||ports.ubuntu.com^$important
+@@||posthog.com^$important
 @@||ppa.launchpadcontent.net^$important
 @@||premium.urban-vpn.com^$important
 @@||pretendo.network^$important
@@ -573,6 +591,7 @@
 @@||products.groupdocs.app^$important
 @@||project-zenith-220.biz^$important
 @@||proof.com^$important
+@@||protondb.com^$important
 @@||protonvpn.com^$important
 @@||pstatic.net.nheos.com^$important
 @@||publi@@||4spromax.site^$important
@@ -588,6 +607,7 @@
 @@||puzzlebooksplus.com^$important
 @@||qr-minicraft3d.gameoftobi.net^$important
 @@||r.lr-hv-in.com^$important
+@@||r7---sn-8xgp1vo-vgql.googlevideo.com^$important
 @@||rapidairmax.site^$important
 @@||rapidshare.cc^$important
 @@||raspberrypi.com^$important
@@ -620,13 +640,7 @@
 @@||robinhood.com^$important
 @@||ronanliving.com^$important
 @@||rpc.ankr.com^$important
-@@||rr*---sn-8xgp1vo-p5q*.googlevideo.com^$important
-@@||rr2---sn-8xgp1vo-gpje.googlevideo.com^$important
-@@||rr3---sn-8xgp1vo-ab5e.googlevideo.com^$important
-@@||rr4---sn-8xgp1vo-ab5d.googlevideo.com^$important
-@@||rr4---sn-ab5l6nrl.googlevideo.com^$important
-@@||rr8---sn-8xgp1vo-ab5e.googlevideo.com^$important
-@@||rr8---sn-8xgp1vo-ab5k.googlevideo.com^$important
+@@||rr*---sn-*.googlevideo.com^$important
 @@||rufus.ie^$important
 @@||s-cdn.anthropic.com^$important
 @@||s.turbifycdn.com^$important
@@ -640,6 +654,7 @@
 @@||samsungnyc.com^$important
 @@||samsungqbe.com^$important
 @@||sascdn.com^$important
+@@||saydelicious.co^$important
 @@||scans.lastation.us^$important
 @@||scontent-hou1-1.cdninstagram.com^$important
 @@||scontent-iad3-*.cdninstagram.com^$important
@@ -681,11 +696,13 @@
 @@||spinthewheel.app^$important
 @@||spinthewheel.cc^$important
 @@||squarecdn.com^$important
+@@||squareup.com^$important
 @@||srv313.bakins.cyou^$important
 @@||ssl.cf*.rackcdn.com^$important
 @@||ssl.gstatic.com^$important
 @@||stackoverflow.com^$important
 @@||stackpath.bootstrapcdn.com^$important
+@@||stacksbowers.com^$important
 @@||star-mini.c10r.facebook.com^$important
 @@||star.c10r.facebook.com^$important
 @@||stardew.info^$important
@@ -701,6 +718,7 @@
 @@||static.oklink.com^$important
 @@||static.whatsapp.net^$important
 @@||static.wikia.nocookie.net^$important
+@@||static.wixstatic.com^$important
 @@||static2.sharepointonline.com^$important
 @@||steam*.com^$important
 @@||steam*.net^$important
@@ -735,6 +753,7 @@
 @@||thegreeneturtle.myguestaccount.com^$important
 @@||thepiratebay.org^$important
 @@||thepopculturestudio.com^$important
+@@||theyummery.com^$important
 @@||time.android.com^$important
 @@||time.samsungcloudsolution.com^$important
 @@||tljus.com^$important
@@ -746,6 +765,7 @@
 @@||topg.org^$important
 @@||torproject.org^$important
 @@||torsnatch.com^$important
+@@||totallybakedbytay.com^$important
 @@||transak.com^$important
 @@||translate.google.com^$important
 @@||transmissionbt.com^$important
@@ -804,6 +824,7 @@
 @@||vtexpayments.com.br^$important
 @@||vxwh97d.ng.impervadns.net^$important
 @@||w-mt.co^$important
+@@||w3-reporting.reddit.com^$important
 @@||wakefern.com^$important
 @@||wallet.brave.com^$important
 @@||walmart.com^$important
@@ -847,6 +868,7 @@
 @@||www.android.com^$important
 @@||www.apartments.com^$important
 @@||www.apkmirror.com^$important
+@@||www.apmex.com^$important
 @@||www.applebees.com^$important
 @@||www.bark.us^$important
 @@||www.bics.com^$important
@@ -865,6 +887,7 @@
 @@||www.dyson.com^$important
 @@||www.easyuefi.com^$important
 @@||www.ebook-converter.com^$important
+@@||www.ecwid.com^$important
 @@||www.efax.com^$important
 @@||www.etsy.com^$important
 @@||www.exxon.com^$important
@@ -882,7 +905,9 @@
 @@||www.googletagmanager.com^$important
 @@||www.gov.uk^$important
 @@||www.gstatic.com^$important
+@@||www.ha.com^$important
 @@||www.hanbooks.com^$important
+@@||www.hcplonline.org^$important
 @@||www.hunsn.com^$important
 @@||www.ilovepdf.com^$important
 @@||www.imagetotext.info^$important
@@ -921,6 +946,7 @@
 @@||www.openpgp.org^$important
 @@||www.opm.gov^$important
 @@||www.papermate.com^$important
+@@||www.paycomonline.net^$important
 @@||www.paypalobjects.com.cdn.cloudflare.net^$important
 @@||www.paypalobjects.com^$important
 @@||www.pcsmypov.com^$important
@@ -946,6 +972,7 @@
 @@||www.shell.us^$important
 @@||www.smule.com^$important
 @@||www.solvusoft.com^$important
+@@||www.somethinextrasweet.com^$important
 @@||www.speedtest.net^$important
 @@||www.tarranttaxinfo.com^$important
 @@||www.tatacommunications.com^$important
