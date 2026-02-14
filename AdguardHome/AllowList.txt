@@ -719,10 +719,9 @@
 @@||ronanliving.com^$important
 @@||rpc.ankr.com^$important
 @@||rpc1.monad.xyz^$important
+@@||rr*---sn-*.c.youtube.com^$important
 @@||rr*---sn-*.googlevideo.com^$important
-@@||rr2.sn-ab5l6nrl.googlevideo.com^$important
-@@||rr3.sn-ab5sznzl.googlevideo.com^$important
-@@||rr5.sn-p5qlsn76.googlevideo.com^$important
+@@||rr*.sn-*.googlevideo.com^$important
 @@||rufus.ie^$important
 @@||s-cdn.anthropic.com^$important
 @@||s.turbifycdn.com^$important
