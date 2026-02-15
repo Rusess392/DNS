@@ -39,7 +39,6 @@
 ||ntp.ubuntu.com^$important
 ||productionwebserver-www-lb-1809167228.us-east-1.elb.amazonaws.com^$important
 ||qwant.com^$important
-||reddit.com^$important
 ||remarkable.com^$important
 ||remarkable.engineering^$important
 ||rmfakecloud.localhost^$important
