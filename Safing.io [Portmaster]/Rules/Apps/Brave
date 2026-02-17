@@ -1,0 +1,13 @@
+type: settings
+config:
+    filter:
+        endpoints:
+            - + 172.253.63.84
+            - + 63.88.73.209
+            - + 74.125.174.6
+            - + 172.253.115.84
+            - + 63.88.73.205
+            - + 151.101.1.140
+            - + v.redd.it
+            - + adguard.jancenk.com
+            - + anonymous.ads.brave.com
