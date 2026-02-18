@@ -9,3 +9,4 @@
 ||s3express-z-w-use1-az4.us-east-1.amazonaws.com^$important
 ||time*.google.com^$important
 ||unifi^$important
+||nextlgsdp.com^$important
