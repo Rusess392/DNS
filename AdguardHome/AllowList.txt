@@ -1,6 +1,7 @@
 @@||*.imgbox.com^$important
 @@||*.lan^$important
 @@||*.ts.net^$important
+@@||1c5c1ecf7303.c0b160fb.us-east-1.token.awswaf.com^$important
 @@||4spromax.site^$important
 @@||694a9474c597.219bcfd2.us-east-1.token.awswaf.com^$important
 @@||a.fsdn.com^$important
@@ -38,6 +39,7 @@
 @@||amctheatres.com^$important
 @@||americanenglish.state.gov^$important
 @@||an2-ast.amz.wtchn.net^$important
+@@||anidb.net^$important
 @@||animekai.bz^$important
 @@||animekai.to^$important
 @@||annas-archive.li^$important
@@ -74,6 +76,7 @@
 @@||askubuntu.com^$important
 @@||asset.brandfetch.io^$important
 @@||assets-cms.privateinternetaccess.com^$important
+@@||assets-proxy.anthropic.com^$important
 @@||assets.adobedtm.com^$important
 @@||assets.brandfetch.io^$important
 @@||assets.micron.com^$important
@@ -90,6 +93,7 @@
 @@||b-aus-04-163.227.178.190.sparked.network^$important
 @@||b-graph.facebook.com^$important
 @@||b4mcx2ml.net^$important
+@@||b9e7f2tf7f-1.algolianet.com^$important
 @@||balancer-234389748.us-east-2.elb.amazonaws.com^$important
 @@||base.org^$important
 @@||basicattentiontoken.org^$important
@@ -132,6 +136,7 @@
 @@||cdn-dynmedia-1.microsoft.com^$important
 @@||cdn.anime-planet.com^$important
 @@||cdn.auth0.com^$important
+@@||cdn.avtoki.com^$important
 @@||cdn.contentful.com^$important
 @@||cdn.cookielaw.org^$important
 @@||cdn.create.microsoft.com^$important
@@ -147,7 +152,9 @@
 @@||cdn.samsungcloudsolution.com^$important
 @@||cdn.sanity.io^$important
 @@||cdn.segment.com^$important
+@@||cdn.sutherland.ai^$important
 @@||cdn.thingiverse.com^$important
+@@||cdn.ziffstatic.com^$important
 @@||cdn*.editmysite.com^$important
 @@||cdn11.bigcommerce.com^$important
 @@||cdnjs.cloudflare.com^$important
@@ -430,6 +437,7 @@
 @@||ir.ebaystatic.com^$important
 @@||irs.gov^$important
 @@||is1-ssl.mzstatic.com^$important
+@@||isdown.app^$important
 @@||itsfoss.community^$important
 @@||jakkuh.com^$important
 @@||jitsi.org^$important
@@ -539,9 +547,14 @@
 @@||modrinth.com^$important
 @@||mojang.com^$important
 @@||momot.rs^$important
+@@||monarch.com^$important
+@@||monarchmoney.com^$important
+@@||monarchmoney.yt.link^$important
 @@||moto-cds.appspot.com^$important
 @@||movhub.ws^$important
+@@||moviedyna.com^$important
 @@||moviekhhd.biz^$important
+@@||movieonlen.com^$important
 @@||movuna.xyz^$important
 @@||mp.microsoft.com^$important
 @@||mparticle.weather.com^$important
@@ -553,6 +566,7 @@
 @@||myaccount.google.com^$important
 @@||myanimelist.net^$important
 @@||mydramalist.com^$important
+@@||mymovieninja.com^$important
 @@||mzksync.io^$important
 @@||nas.ugreen.com^$important
 @@||naver-vod.akamaized.net^$important
@@ -568,6 +582,7 @@
 @@||nexon.com^$important
 @@||nexon.io^$important
 @@||next-hub.com^$important
+@@||nextcloud-talk.readthedocs.io^$important
 @@||nextcloud.com^$important
 @@||nextdoor.com^$important
 @@||nodereal.io^$important
@@ -601,6 +616,7 @@
 @@||one.one.one.one^$important
 @@||online-convert.com^$important
 @@||online2pdf.com^$important
+@@||online4movies.com^$important
 @@||open.umn.edu^$important
 @@||openlibrary.org^$important
 @@||openpgp.org^$important
@@ -777,6 +793,7 @@
 @@||smtp.gmail.com.ts.net^$important
 @@||snappaydirectapi.fiserv.com^$important
 @@||snews.app^$important
+@@||snx-anime.net^$important
 @@||software.download.prss.microsoft.com^$important
 @@||softwarerecs.stackexchange.com^$important
 @@||solana.p2p.org^$important
@@ -890,6 +907,7 @@
 @@||urlhaus.abuse.ch^$important
 @@||us-east-1.amazonaws.com^$important
 @@||us-west-2.amazonaws.com^$important
+@@||us.anker.com^$important
 @@||us.archive.ubuntu.com^$important
 @@||us.document360.io^$importantQuery
 @@||us.mova.tech^$important
@@ -926,6 +944,7 @@
 @@||voice.google.com^$important
 @@||voice.l.google.com^$important
 @@||vsassets.io^$important
+@@||vscode.dev^$important
 @@||vteximg.com.br^$important
 @@||vtexpayments.com.br^$important
 @@||vxwh97d.ng.impervadns.net^$important
@@ -969,13 +988,17 @@
 @@||ww22.0123movie.net^$important
 @@||ww23.0123movie.net^$important
 @@||ww24.0123movie.net^$important
+@@||ww25.0123movie.net^$important
 @@||ww4.fmovies.co^$important
 @@||ww7.kissasian.video^$important
+@@||ww8.123moviesfree.net^$important
 @@||www.a3erf.com^$important
 @@||www.adobe.com^$important
 @@||www.amazon.com^$important
 @@||www.android.com^$important
 @@||www.anime-planet.com^$important
+@@||www.animenewsnetwork.com^$important
+@@||www.anker.com^$important
 @@||www.apartments.com^$important
 @@||www.apkmirror.com^$important
 @@||www.apmex.com^$important
@@ -1153,6 +1176,7 @@
 @@||youtube-ui.l.google.com^$important
 @@||yryefinkgsbsfan.com^$important
 @@||yt3.ggpht.com^$important
+@@||yt3.googleusercontent.com^$important
 @@||ytimg.com^$important
 @@||yubico.gitbook.io^$important
 @@||yumpu.com^$important
