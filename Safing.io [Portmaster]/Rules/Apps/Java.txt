@@ -3,3 +3,4 @@ config:
     filter:
         endpoints:
             - + 13.107.213.40
+            - + 13.107.246.40

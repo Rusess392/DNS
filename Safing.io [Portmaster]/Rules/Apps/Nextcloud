@@ -1,0 +1,7 @@
+type: settings
+config:
+    filter:
+        endpoints:
+            - '- 5.9.202.145'
+        serviceEndpoints:
+            - + 127.0.0.1
