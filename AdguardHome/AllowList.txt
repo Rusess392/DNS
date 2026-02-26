@@ -1,3 +1,5 @@
+@@||_minecraft._tcp.diplomaticamc.com^$important
+@@||_minecraft._tcp.tel-considers.gl.joinmc.link^$important
 @@||*.imgbox.com^$important
 @@||*.lan^$important
 @@||*.ts.net^$important
@@ -142,6 +144,7 @@
 @@||calyxinstitute.org^$important
 @@||calyxos.org^$important
 @@||campuscu.com^$important
+@@||canonical-bridge-api.bnbchain.world^$important
 @@||cash.app^$important
 @@||catalog.freelibrary.org^$important
 @@||cdn-0.nflximg.com^$important
@@ -157,6 +160,7 @@
 @@||cdn.dictionary.com^$important
 @@||cdn.fluidplayer.com^$important
 @@||cdn.growthbook.io^$important
+@@||cdn.imgchest.com^$important
 @@||cdn.jsdelivr.net.cdn.cloudflare.net^$important
 @@||cdn.jsdelivr.net^$important
 @@||cdn.kissasia.cc^$important
@@ -247,6 +251,7 @@
 @@||devournow.com^$important
 @@||dh1y47vf5ttia.cloudfront.net^$important
 @@||dictionary.cambridge.org^$important
+@@||diplomaticamc.com^$important
 @@||discord-attachments-uploads-prd.storage.googleapis.com^$important
 @@||discord.com^$important
 @@||discord.gg^$important
@@ -272,7 +277,9 @@
 @@||doordash.com^$important
 @@||dotnet.microsoft.com^$important
 @@||downdetector.com^$important
+@@||download-installer.cdn.mozilla.net^$important
 @@||download.docker.com^$important
+@@||download.mozilla.org^$important
 @@||download.virtualbox.org^$important
 @@||downloads.remarkable.com^$important
 @@||dpm.demdex.net^$important
@@ -313,6 +320,7 @@
 @@||esimgo.com^$important
 @@||esimplus.me^$important
 @@||esm.ubuntu.com^$important
+@@||essential.gg^$important
 @@||etherscan.io^$important
 @@||events.launchdarkly.com^$important
 @@||excel.cloud.microsoft^$important
@@ -332,6 +340,7 @@
 @@||file-converter.org^$important
 @@||file.kinolights.com^$important
 @@||files.pythonhosted.org^$important
+@@||files2.imgtu.top^$important
 @@||filestar.com^$important
 @@||finance^$important
 @@||firstmarkservices.com^$important
@@ -407,6 +416,7 @@
 @@||hpc.freedompay.com^$important
 @@||hub.docker.com^$important
 @@||hub.mc-complex.com^$important
+@@||hub.snapshot.org^$important
 @@||hubspotonwebflow.com^$important
 @@||hulu.com^$important
 @@||hulu.playback.edge.bamgrid.com^$important
@@ -512,6 +522,7 @@
 @@||linuxserver.io^$important
 @@||lists.fedoraproject.org^$important
 @@||lists.gnupg.org^$important
+@@||lite-api.jup.ag^$important
 @@||live.com^$important
 @@||live979c117.airspace-f.cbsivideo.com^$important
 @@||liveperson.net^$important
@@ -534,6 +545,7 @@
 @@||m1finance.sendsafely.com^$important
 @@||m365.cloud.microsoft^$important
 @@||magna-power.com^$important
+@@||mail-attachment.googleusercontent.com^$important
 @@||mail.*.com^$important
 @@||mail.google.com^$important
 @@||mail.onelink.me^$important
@@ -644,6 +656,7 @@
 @@||nrdp.prod.cloud.netflix.com^$important
 @@||nrdp52-appboot.netflix.com^$important
 @@||ntm.pstatic.net^$important
+@@||ntp.ubuntu.com^$important
 @@||o418887.ingest.sentry.io^$important
 @@||oauth2.googleapis.com^$important
 @@||oca-api.*-*-*.origin.prodaa.netflix.com^$important
@@ -691,6 +704,7 @@
 @@||papersurgery.wordpress.com^$important
 @@||parcelsapp.com^$important
 @@||partyvendors.punchbowl.com^$important
+@@||pastebin.com^$important
 @@||patisseriepoupon.com^$important
 @@||payments.google.com^$important
 @@||paypal.com^$important
@@ -737,6 +751,7 @@
 @@||proof.com^$important
 @@||protondb.com^$important
 @@||protonvpn.com^$important
+@@||proxy.diplomaticamc.com^$important
 @@||pstatic.net.nheos.com^$important
 @@||publi@@||4spromax.site^$important
 @@||public.com^$important
@@ -763,6 +778,7 @@
 @@||realpage.com^$important
 @@||recalendar.me^$important
 @@||recaptcha.net^$important
+@@||redact.dev^$important
 @@||reddit-uploaded-media.s3-accelerate.amazonaws.com^$important
 @@||reddit.map.fastly.net^$important
 @@||redditmedia.com^$important
@@ -771,6 +787,7 @@
 @@||redteago.com^$important
 @@||reelgood.com^$important
 @@||referrals.brave.com^$important
+@@||relay.walletconnect.com^$important
 @@||relay.walletconnect.org^$important
 @@||release-assets.githubusercontent.com^$important
 @@||releases.obsidian.md^$important
@@ -922,6 +939,8 @@
 @@||talk-pilsner.kakao.com^$important
 @@||talk-shareex.kakao.com^$important
 @@||tangem.com^$important
+@@||tel-considers.gl.at.ply.gg^$important
+@@||tel-considers.gl.joinmc.link^$important
 @@||temp.compsci88.com^$important
 @@||texas.gov^$important
 @@||thatsthem.com^$important
@@ -989,6 +1008,7 @@
 @@||use.typekit.net^$important
 @@||userservices.vip.symantec.com^$important
 @@||usps.com^$important
+@@||v.redd.it^$important
 @@||v.whatsapp.net^$important
 @@||va.gov^$important
 @@||vadip.ddpdelta.org^$important
@@ -1183,6 +1203,7 @@
 @@||www.pickupplease.org^$important
 @@||www.pishop.us^$important
 @@||www.planetminecraft.com^$important
+@@||www.platinumtools.com^$important
 @@||www.playworks.org^$important
 @@||www.portainer.io^$important
 @@||www.printfriendly.com^$important
@@ -1216,6 +1237,7 @@
 @@||www.themoviedb.org^$important
 @@||www.thewrap.com^$important
 @@||www.thingiverse.com^$important
+@@||www.thunderbird.net^$important
 @@||www.timeanddate.com^$important
 @@||www.totallybakedbytay.com^$important
 @@||www.trendnet.com^$important
@@ -1230,6 +1252,7 @@
 @@||www.urbandictionary.com^$important
 @@||www.usps.com^$important
 @@||www.valore.com^$important
+@@||www.vcelink.com^$important
 @@||www.veganbaybaker.com^$important
 @@||www.verizon.com^$important
 @@||www.victorysupplyinc.com^$important
