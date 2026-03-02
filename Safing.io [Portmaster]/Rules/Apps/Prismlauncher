@@ -1,8 +1,9 @@
 type: settings
 config:
     filter:
-        defaultAction: permit
         endpoints:
-            - + 40.126.24.146
+            - + 13.107.213.40
             - + 13.107.246.40
             - + 20.190.152.22
+            - + 40.126.24.146
+            - + 40.126.24.81
