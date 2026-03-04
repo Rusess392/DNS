@@ -1,10 +1,3 @@
-@@||_minecraft._tcp.diplomaticamc.com^$important
-@@||_minecraft._tcp.mc.vortexnetwork.net^$important
-@@||_minecraft._tcp.play.akumamc.net^$important
-@@||_minecraft._tcp.pmc.lemoncloud.net^$important
-@@||_minecraft._tcp.skyblock.sunrisemc.fun^$important
-@@||_minecraft._tcp.tel-considers.gl.joinmc.link^$important
-@@||_minecraft._tcp.www.renegadesmp.com^$important
 @@||*.imgbox.com^$important
 @@||*.lan^$important
 @@||*.ts.net^$important
@@ -142,7 +135,6 @@
 @@||basicattentiontoken.org^$important
 @@||bayareadentalaberdeen.com^$important
 @@||bbb.org^$important
-@@||best-minecraft-servers.co^$important
 @@||bfasset.costco-static.com^$important
 @@||bible.com^$important
 @@||bible.ctm.kr^$important
@@ -651,20 +643,6 @@
 @@||metrics.interface.gateway.uniswap.org^$important
 @@||mform.net^$important
 @@||microcenter.com^$important
-@@||minecraft-enchantment-order.vercel.app^$important
-@@||minecraft-mp.com^$important
-@@||minecraft-server-list.com^$important
-@@||minecraft-server.net^$important
-@@||minecraft-serverlist.com^$important
-@@||minecraft-services.net^$important
-@@||minecraft-statistic.net^$important
-@@||minecraft.buzz^$important
-@@||minecraft.fandom.com^$important
-@@||minecraft.net^$important
-@@||minecraft.wiki^$important
-@@||minecraftlist.com^$important
-@@||minecraftservers.org^$important
-@@||minecraftservices.com^$important
 @@||mintmobile.com^$important
 @@||mirror.accum.se^$important
 @@||mirrors.dotsrc.org^$important
@@ -799,7 +777,6 @@
 @@||pkgs.tailscale.com^$important
 @@||places.googleapis.com^$important
 @@||plaid.com^$important
-@@||planetminecraft.com^$important
 @@||play.akumamc.net^$important
 @@||play.google.com^$important
 @@||player.vimeo.com^$important
@@ -1295,9 +1272,6 @@
 @@||www.merriam-webster.com^$important
 @@||www.microsoft.com^$important
 @@||www.midtowncomics.com^$important
-@@||www.minecraftforum.net^$important
-@@||www.minecraftinfo.app^$important
-@@||www.minecraftmaps.com^$important
 @@||www.money-education.com^$important
 @@||www.mybaba.com^$important
 @@||www.mydav.org^$important
@@ -1329,7 +1303,6 @@
 @@||www.phreeli.com^$important
 @@||www.pickupplease.org^$important
 @@||www.pishop.us^$important
-@@||www.planetminecraft.com^$important
 @@||www.platinumtools.com^$important
 @@||www.playworks.org^$important
 @@||www.portainer.io^$important
