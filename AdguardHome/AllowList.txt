@@ -1036,6 +1036,7 @@
 @@||sushi.com^$important
 @@||syncthing.net^$important
 @@||t.dd.delta.org^$important
+@@||t.ssl.ak.dynamic.tiles.virtualearth.net^$important
 @@||t.ssl.ak.tiles.virtualearth.net^$important
 @@||t1.daumcdn.net^$important
 @@||t1.kakaocdn.net^$important
