@@ -1,6 +1,3 @@
-@@||_2228._https.f13.megacdn.co^$important
-@@||_2228._https.f17.megacdn.co^$important
-@@||_2228._https.f19.megacdn.co^$important
 @@||*.imgbox.com^$important
 @@||*.lan^$important
 @@||*.ts.net^$important
@@ -419,7 +416,6 @@
 @@||f-droid.org^$important
 @@||f.woowoowoowoo.net^$important
 @@||f*.megacdn.co^$important
-@@||f19.megacdn.co^$important
 @@||fabricmc.net^$important
 @@||facebook.com^$important
 @@||fandom.com^$important
