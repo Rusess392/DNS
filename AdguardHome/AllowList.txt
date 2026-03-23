@@ -603,7 +603,6 @@
 @@||isdown.app^$important
 @@||itsfoss.community^$important
 @@||jakkuh.com^$important
-@@||jancenk.com^$important
 @@||jdk.java.net^$important
 @@||jitsi.org^$important
 @@||jnn-pa.googleapis.com^$important
