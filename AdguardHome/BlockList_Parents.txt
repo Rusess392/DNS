@@ -8,4 +8,4 @@
 ||rmfakecloud.localhost^$important
 ||s3express-z-w-use1-az4.us-east-1.amazonaws.com^$important
 ||unifi^$important
-||www.firstnet.com^$important
+||firstnet.com^$important
