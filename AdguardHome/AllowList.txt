@@ -1186,6 +1186,7 @@
 @@||thunderleaf12.online^$important
 @@||time.android.com^$important
 @@||time.samsungcloudsolution.com^$important
+@@||time*.google.com^$important
 @@||tljus.com^$important
 @@||tms.usaa.com^$important
 @@||tmstr2.shadowlandschronicles.com^$important

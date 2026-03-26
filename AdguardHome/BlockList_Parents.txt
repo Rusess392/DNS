@@ -1,9 +1,11 @@
 ||appspot.com^$important
 ||device.memfault.com^$important
+||laxrkyojzb.in^$important
 ||local.appspot.com^$important
 ||memfault-tmp-production--use1-az4--x-s3.s3express-use1-az4.us-east-1.amazonaws.com^$important
+||nextlgsdp.com^$important
 ||productionwebserver-www-lb-1809167228.us-east-1.elb.amazonaws.com^$important
 ||rmfakecloud.localhost^$important
 ||s3express-z-w-use1-az4.us-east-1.amazonaws.com^$important
 ||unifi^$important
-||nextlgsdp.com^$important
+||www.firstnet.com^$important
