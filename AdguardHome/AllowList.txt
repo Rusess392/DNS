@@ -154,6 +154,7 @@
 @@||bible.com^$important
 @@||bible.ctm.kr^$important
 @@||bigbluebutton.org^$important
+@@||binph5o7ub3514q463qh26549.litix.io^$important
 @@||bitwarden.com^$important
 @@||blackboard.com^$important
 @@||blackboardcdn.com^$important
