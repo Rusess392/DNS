@@ -154,7 +154,6 @@
 @@||bible.com^$important
 @@||bible.ctm.kr^$important
 @@||bigbluebutton.org^$important
-@@||binph5o7ub3514q463qh26549.litix.io^$important
 @@||bitwarden.com^$important
 @@||blackboard.com^$important
 @@||blackboardcdn.com^$important
@@ -655,6 +654,7 @@
 @@||lists.fedoraproject.org^$important
 @@||lists.gnupg.org^$important
 @@||lite-api.jup.ag^$important
+@@||litix.io^$important
 @@||live.com^$important
 @@||live979c117.airspace-f.cbsivideo.com^$important
 @@||liveapi.yext.com^$important
