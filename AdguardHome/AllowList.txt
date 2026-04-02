@@ -263,7 +263,6 @@
 @@||cloudconvert.com^$important
 @@||cloudflare.com^$important
 @@||cloudflare.docker.com^$important
-@@||cloudflareinsights.com^$important
 @@||cloudfront.net^$important
 @@||cloudnestra.com^$important
 @@||cn-geo1.uber.com^$important
