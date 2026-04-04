@@ -1,0 +1,5 @@
+type: settings
+config:
+    filter:
+        endpoints:
+            - + 142.251.211.182
