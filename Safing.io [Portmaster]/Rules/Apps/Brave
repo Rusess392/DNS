@@ -2,4 +2,5 @@ type: settings
 config:
     filter:
         endpoints:
-            - + 142.251.211.182
+            - + 142.250.65.86
+            - + 142.250.68.195
