@@ -1,5 +1,0 @@
-type: settings
-config:
-    filter:
-        endpoints:
-            - + 151.101.1.140
