@@ -1,5 +1,7 @@
 type: settings
 config:
+    dns:
+        nameservers: []
     filter:
         blockInbound: false
         defaultAction: ask
