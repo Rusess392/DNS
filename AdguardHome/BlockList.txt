@@ -57,3 +57,4 @@
 ||vidyard.com^$important
 ||www.googleadservices.com^$important
 ||www.googleapis.com^$important
+||d2gpx7np84fwh1.cloudfront.net^$important
