@@ -1,0 +1,5 @@
+type: settings
+config:
+    filter:
+        defaultAction: block
+        endpoints: []

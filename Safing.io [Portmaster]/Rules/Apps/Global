@@ -6,6 +6,7 @@ config:
         blockInbound: false
         defaultAction: ask
         endpoints:
+            - '- ::/0'
             - + 127.0.0.1
             - + 127.0.0.53
             - + 142.250.65.86
@@ -16,6 +17,7 @@ config:
         includeSubdomains: false
         preventBypassing: false
         serviceEndpoints:
+            - '- ::/0'
             - + 127.0.0.1
             - + 127.0.0.53
             - + 192.168.8.10
