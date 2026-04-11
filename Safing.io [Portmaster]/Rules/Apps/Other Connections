@@ -3,4 +3,6 @@ config:
     filter:
         endpoints:
             - '- 224.0.0.22'
-        serviceEndpoints: []
+        serviceEndpoints:
+            - + ::1
+            - + 192.168.0.0/16

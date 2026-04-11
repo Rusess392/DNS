@@ -1,6 +1,6 @@
 type: settings
 config:
     filter:
+        defaultAction: block
         endpoints:
             - '- 224.0.0.251'
-        serviceEndpoints:

@@ -1,0 +1,17 @@
+type: settings
+config:
+    filter:
+        blockInbound: false
+        blockInternet: false
+        blockLAN: false
+        blockLocal: false
+        blockP2P: false
+        defaultAction: ask
+        endpoints:
+            - + .nextcloud.jancenk.com.
+        serviceEndpoints:
+            - '- *'
+            - + LAN UDP/1900
+            - + LAN UDP/5353
+            - + LAN UDP/5355
+            - + Localhost

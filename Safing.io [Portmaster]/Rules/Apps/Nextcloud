@@ -3,3 +3,6 @@ config:
     filter:
         endpoints:
             - '- .updates.nextcloud.org.'
+            - '- 5.9.202.145'
+            - + .nextcloud.jancenk.com.
+            - + 192.168.8.11
