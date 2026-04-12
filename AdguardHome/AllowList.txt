@@ -7,12 +7,16 @@
 @@||4spromax.site^$important
 @@||67movies.net^$important
 @@||694a9474c597.219bcfd2.us-east-1.token.awswaf.com^$important
+@@||9animetv.to^$important
+@@||9e5fa68d596e.0421493d.us-east-1.token.awswaf.com^$important
+@@||9e5fa68d596e.us-east-1.sdk.awswaf.com^$important
 @@||a-us00.kxcdn.com^$important
 @@||a.co^$important
 @@||a.fsdn.com^$important
 @@||a2.fox2.online^$important
 @@||a300.stripecdn.com^$important
 @@||aa.online-metrix.net^$important
+@@||aa593af2593e1b07b.awsglobalaccelerator.com^$important
 @@||aadcdn.msftauth.net^$important
 @@||abs-*.twimg.com^$important
 @@||abs.twimg.com^$important
@@ -29,6 +33,7 @@
 @@||action.freespeechcoalition.com^$important
 @@||activebuilding.com^$important
 @@||acupdates.netgear.com^$important
+@@||addons.mozilla.org^$important
 @@||adobedc.demdex.net^$important
 @@||adobetarget.data.adobedc.net^$important
 @@||ads.brave.com^$important
@@ -61,10 +66,17 @@
 @@||amzn.to^$important
 @@||an2-ast.amz.wtchn.net^$important
 @@||anidb.net^$important
+@@||anikai.to^$important
+@@||anime.delivery^$important
+@@||anime.nexus^$important
 @@||animekai.bz^$important
 @@||animekai.to^$important
+@@||anitaku.io^$important
+@@||annas-archive.gd^$important
+@@||annas-archive.gl^$important
 @@||annas-archive.li^$important
 @@||annas-archive.org^$important
+@@||annas-archive.pk^$important
 @@||anyconv.com^$important
 @@||api-bcb54897.duosecurity.com^$important
 @@||api-exxon-prod.clm-comarch.com^$important
@@ -119,6 +131,7 @@
 @@||arace.tech^$important
 @@||arb1.arbitrum.io^$important
 @@||arbiscan.io^$important
+@@||arbitragescanner.io^$important
 @@||arbitrum.llamarpc.com^$important
 @@||archive.org^$important
 @@||archive.ubuntu.com^$important
@@ -137,6 +150,7 @@
 @@||astream-15-1.voxzer.org^$important
 @@||astronestinnovation.xyz^$important
 @@||aternos.org^$important
+@@||audio-*.spotifycdn.com^$important
 @@||aurorabird6.live^$important
 @@||auth.freetaxusa.com^$important
 @@||auth.fuelrewards.com
@@ -157,6 +171,7 @@
 @@||balancer-234389748.us-east-2.elb.amazonaws.com^$important
 @@||balancer.fi^$important
 @@||base-mainnet.public.blastapi.io^$important
+@@||base.meowrpc.com^$important
 @@||base.org^$important
 @@||basicattentiontoken.org^$important
 @@||batcave.biz^$important
@@ -165,6 +180,7 @@
 @@||bf07779yqi.bf.dynatrace.com^$important
 @@||bfasset.costco-static.com^$important
 @@||bg-software.com^$important
+@@||bi.orbs.network^$important
 @@||bible.com^$important
 @@||bible.ctm.kr^$important
 @@||bigbluebutton.org^$important
@@ -193,12 +209,17 @@
 @@||browser-intake-datadoghq.com^$important
 @@||browser-intake-us3-datadoghq.com^$important
 @@||bsc-dataseed.binance.org^$important
+@@||bsc-dataseed1.defibit.io^$important
+@@||bsc-dataseed2.ninicoin.io^$important
+@@||bscrpc.com^$important
 @@||bscscan.com^$important
 @@||btcpayserver.org^$important
+@@||btctrail.space^$important
 @@||buttons-config.sharethis.com^$important
 @@||c.s-microsoft.com^$important
 @@||c.tadst.com^$important
 @@||c24e3f74fb99.3421646e.us-east-1.token.awswaf.com^$important
+@@||c783319.r19.cf2.rackcdn.com^$important
 @@||calendar2u.com^$important
 @@||calendly.com^$important
 @@||call2friends.com^$important
@@ -221,6 +242,7 @@
 @@||cdn.auth0.com^$important
 @@||cdn.avtoki.com^$important
 @@||cdn.branch.io^$important
+@@||cdn.codeblackbelt.com^$important
 @@||cdn.contentful.com^$important
 @@||cdn.cookielaw.org^$important
 @@||cdn.create.microsoft.com^$important
@@ -237,6 +259,7 @@
 @@||cdn.kustomerhostedcontent.com^$important
 @@||cdn.lgrckt-in.com^$important
 @@||cdn.localizeapi.com^$important
+@@||cdn.noitatnemucod.net^$important
 @@||cdn.prod.website-files.com^$important
 @@||cdn.raygun.io^$important
 @@||cdn.samsungcloudsolution.com^$important
@@ -292,6 +315,7 @@
 @@||cloudnestra.com^$important
 @@||cn-geo1.uber.com^$important
 @@||cnbl-cdn.bamgrid.com^$important
+@@||cnvmp3.com^$important
 @@||code.jquery.com^$important
 @@||cognito-idp.us-east-2.amazonaws.com^$important
 @@||coinbase.com^$important
@@ -304,6 +328,7 @@
 @@||community.spiceworks.com^$important
 @@||configs.1inch.io^$important
 @@||connectivity-check.ubuntu.com^$important
+@@||consent.cookiebot.com^$important
 @@||constablepct4.com^$important
 @@||consumerrights.wiki^$important
 @@||content-autofill.googleapis.com^$important
@@ -344,6 +369,7 @@
 @@||dentistinaberdeen.com^$important
 @@||deskpi.com^$important
 @@||desktop.docker.com^$important
+@@||detectportal.firefox.com^$important
 @@||dev.virtualearth.net^$important
 @@||developer.android.com^$important
 @@||developers.yubico.com^$important
@@ -417,6 +443,7 @@
 @@||emailtracking.email-messaging.com^$important
 @@||embos.net^$important
 @@||emoji.discourse-cdn.com^$important
+@@||empirica.io^$important
 @@||en.wikipedia.org^$important
 @@||en.yna.co.kr^$important
 @@||encore.scdn.co^$important
@@ -457,6 +484,7 @@
 @@||file-converter.en.softonic.com^$important
 @@||file-converter.org^$important
 @@||file.kinolights.com^$important
+@@||files-prod.super-agent.com^$important
 @@||files.pythonhosted.org^$important
 @@||files2.imgtu.top^$important
 @@||filestar.com^$important
@@ -497,6 +525,7 @@
 @@||gateway-collector-prod-lb-603414359.us-east-1.elb.amazonaws.com^$important
 @@||gds.google.com^$important
 @@||geckoterminal.com^$important
+@@||gemini.com^$important
 @@||gemini.google.com^$important
 @@||geo.dailymotion.com^$important
 @@||geoip-js.com^$important
@@ -544,8 +573,10 @@
 @@||guce.yahoo.com^$important
 @@||gumroad.com^$important
 @@||h-discover.online-metrix.net^$important
+@@||haasonline.com^$important
 @@||habitatsusq.org^$important
 @@||hackaday.com^$important
+@@||halc.iadvize.com^$important
 @@||harvest.finance^$important
 @@||haveibeenpwned.com^$important
 @@||hcaptcha.com^$important
@@ -561,7 +592,9 @@
 @@||hglink.to^$important
 @@||hide.me^$important
 @@||hilton.com^$important
+@@||hls-ipv4.ondemandkorea.com^$important
 @@||hls-mh.ondemandkorea.com^$important
+@@||hls.ondemandkorea.com^$important
 @@||hosts.ooklaserver.net^$important
 @@||hot.planeptune.us^$important
 @@||hotmail.com^$important
@@ -581,7 +614,9 @@
 @@||i.etsystatic.com^$important
 @@||i.pinimg.com^$important
 @@||i.redd.it^$important
+@@||i.scdn.co^$important
 @@||i.ytimg.com^$important
+@@||i*.wp.com^$important
 @@||i*.ytimg.com^$important
 @@||i0.wp.com^$important
 @@||i1.wp.com^$important
@@ -644,6 +679,7 @@
 @@||isdown.app^$important
 @@||itsfoss.community^$important
 @@||jakkuh.com^$important
+@@||jancenk.com^$important
 @@||jdk.java.net^$important
 @@||jitsi.org^$important
 @@||jnn-pa.googleapis.com^$important
@@ -651,17 +687,21 @@
 @@||joovideo.cfd^$important
 @@||jpwebsite.harriscountytx.gov^$important
 @@||js-agent.newrelic.com^$important
+@@||js-server.staqlab.com^$important
 @@||js.authorize.net^$important
 @@||js.radar.com^$important
 @@||js.stripe.com^$important
 @@||js0.cdn.applicationinsights.io^$important
 @@||jwplayer-dualstack.map.fastly.net^$important
 @@||k8s-ingressn-bscmainn-3f9a19480b-888004326.us-east-1.elb.amazonaws.com^$important
+@@||k8s-ingressn-bscmainn-77101c994e-1879852970.us-east-1.elb.amazonaws.com^$important
 @@||k8s-ingressn-subdomai-5fdba61c7f-420269049.us-east-1.elb.amazonaws.com^$important
 @@||kagane.org^$important
 @@||kaios-d.facebook.com^$important
 @@||katalk-fo6ld96d.kgslb.com^$important
 @@||katalk.kakao.com^$important
+@@||keepassxc.org^$important
+@@||keitharcade.networkchuck.video^$important
 @@||khumbamovie.com^$important
 @@||kisskh.space^$important
 @@||kit.fontawesome.com.cdn.cloudflare.net^$important
@@ -675,6 +715,7 @@
 @@||ktownstory.com^$important
 @@||kustomer.help^$important
 @@||l.facebook.com^$important
+@@||labs.iadvize.com^$important
 @@||laby.net^$important
 @@||laptop-updates.brave.com^$important
 @@||lastonne.com^$important
@@ -711,6 +752,7 @@
 @@||loftliving.com^$important
 @@||log.tailscale.io^$important
 @@||login.*.com^$important
+@@||login.aliexpress.us^$important
 @@||login.gov^$important
 @@||logincdn.msauth.net^$important
 @@||logincdn.msftauth.net^$important
@@ -767,6 +809,7 @@
 @@||media-amazon.com^$important
 @@||media.forgecdn.net^$important
 @@||media.kleintools.io^$important
+@@||media.rs-online.com^$important
 @@||meet.no42.org^$important
 @@||mega.co.nz^$important
 @@||mega.nz^$important
@@ -776,6 +819,7 @@
 @@||megaup.site^$important
 @@||megaup22.online^$important
 @@||mem.gfx.ms^$important
+@@||member.tunefab.com^$important
 @@||memberportal.com^$important
 @@||meteorclient.com^$important
 @@||metlife.com^$important
@@ -798,6 +842,8 @@
 @@||modrinth.com^$important
 @@||mojang.com^$important
 @@||momot.rs^$important
+@@||monad.xyz^$important
+@@||monadinfra.com^$important
 @@||monarch.com^$important
 @@||monarchmoney.com^$important
 @@||monarchmoney.yt.link^$important
@@ -843,7 +889,10 @@
 @@||naverpa-phinf.pstatic.net^$important
 @@||navyfederal.org^$important
 @@||navyfederalcu.tt.omtrdc.net^$important
+@@||nbstream.binance.click^$important
 @@||nbstream.binance.com^$important
+@@||nbstream.binance.info^$important
+@@||nbstream.yshyqxx.com^$important
 @@||ncognia.com^$important
 @@||netusa.xyz^$important
 @@||newarcstorage.blob.core.windows.net^$important
@@ -886,6 +935,7 @@
 @@||oficialdroid.com.br^$important
 @@||ogs.google.com^$important
 @@||oktacdn.com^$important
+@@||ol.ondemandkorea.com^$important
 @@||old-releases.ubuntu.com^$important
 @@||old.reddit.com^$important
 @@||olo-images-live.imgix.net^$important
@@ -900,6 +950,7 @@
 @@||online2pdf.com^$important
 @@||online4movies.com^$important
 @@||onlinefreemovie.ac^$important
+@@||open.spotifycdn.com^$important
 @@||open.umn.edu^$important
 @@||openlibrary.org^$important
 @@||openpgp.org^$important
@@ -928,6 +979,7 @@
 @@||papersurgery.wordpress.com^$important
 @@||paramountplus.com^$important
 @@||parcelsapp.com^$important
+@@||parse.tunefab.com^$important
 @@||partyvendors.punchbowl.com^$important
 @@||pastebin.com^$important
 @@||patisseriepoupon.com^$important
@@ -943,6 +995,7 @@
 @@||penzu.com^$important
 @@||perimeterx2.map.fastly.net^$important
 @@||perlego.com^$important
+@@||perplexity.ai^$important
 @@||pgl.yoyo.org^$important
 @@||phinf.pstatic.net^$important
 @@||phishing.army^$important
@@ -978,6 +1031,7 @@
 @@||posthog.com^$important
 @@||poweriso.com^$important
 @@||ppa.launchpadcontent.net^$important
+@@||pplx.ai^$important
 @@||premium.urban-vpn.com^$important
 @@||pressplayz.to^$important
 @@||pretendo.network^$important
@@ -991,6 +1045,7 @@
 @@||prod-static.disney-plus.net^$important
 @@||prod.ohttp-gateway.prod.webservices.mozgcp.net^$important
 @@||prodlb.siteintercept.qualtrics.com.cdn.cloudflare.net^$important
+@@||prodregistryv2.org^$important
 @@||products.groupdocs.app^$important
 @@||project-zenith-220.biz^$important
 @@||projectfreetv.sx^$important
@@ -1080,22 +1135,27 @@
 @@||rr*---sn-*.c.youtube.com^$important
 @@||rr*---sn-*.googlevideo.com^$important
 @@||rr*.sn-*.googlevideo.com^$important
+@@||rrr.tech20hub.site^$important
 @@||rufus.ie^$important
 @@||s-cdn.anthropic.com^$important
 @@||s.go-mpulse.net^$important
 @@||s.turbifycdn.com^$important
 @@||s.w-x.co^$important
 @@||s1.dmcdn.net^$important
+@@||s1.staq-cdn.com^$important
 @@||s3-design-language-system.cdn4dd.com^$important
 @@||s3-media0.fl.yelpcdn.com^$important
 @@||s3-us-gov-*-*.amazonaws.com^$important
 @@||s3.amazonaws.com^$important
+@@||s4.anilist.co^$important
 @@||s41008.pcdn.co^$important
+@@||s5-cloudinary-pin.map.fastly.net^$important
 @@||safing.io^$important
 @@||sagaevm.jsonrpc.sagarpc.io^$important
 @@||samsungacr.com^$important
 @@||samsungnyc.com^$important
 @@||samsungqbe.com^$important
+@@||sardine.ai^$important
 @@||sascdn.com^$important
 @@||saydelicious.co^$important
 @@||scans.lastation.us^$important
@@ -1118,6 +1178,7 @@
 @@||securemail.delta.org^$important
 @@||securepopmoney.ally.us.cloud-fdc.com^$important
 @@||security.ubuntu.com^$important
+@@||seektables.spotifycdn.com^$important
 @@||self-check.portmaster.home.arpa^$important
 @@||self.events.data.microsoft.com^$important
 @@||self.inc^$important
@@ -1133,12 +1194,15 @@
 @@||shandianpic.vip^$important
 @@||share.icloud.com^$important
 @@||sharedeasy.club^$important
+@@||shark.multi-rpc.com^$important
 @@||shell.com^$important
+@@||shop.allnetchina.cn^$important
 @@||shop.app^$important
 @@||shop.hak5.org^$important
 @@||shopify.com^$important
 @@||shopifyinc.com^$important
 @@||shoprite.com^$important
+@@||shops.myshopify.com^$important
 @@||simplelogin.com^$important
 @@||simplelogin.io^$important
 @@||siteintercept.qualtrics.com^$important
@@ -1178,6 +1242,7 @@
 @@||ssl.kaptcha.com^$important
 @@||ssl.p.jwpcdn.com^$important
 @@||sss.gov^$important
+@@||stablecoininsider.org^$important
 @@||stackoverflow.com^$important
 @@||stackpath.bootstrapcdn.com^$important
 @@||stacksbowers.com^$important
@@ -1194,6 +1259,7 @@
 @@||static-assets.bamgrid.com^$important
 @@||static-assets.fs.liveperson.com^$important
 @@||static-maps.uber.com^$important
+@@||static.1cdn.me^$important
 @@||static.cdninstagram.com^$important
 @@||static.cloudflareinsights.com^$important
 @@||static.gl-inet.com^$important
@@ -1201,6 +1267,8 @@
 @@||static.neon-ssr.dailymotion.com^$important
 @@||static.netify.ai^$important
 @@||static.oklink.com^$important
+@@||static.tongdun.net^$important
+@@||static.tp-link.com^$important
 @@||static.whatsapp.net^$important
 @@||static.wikia.nocookie.net^$important
 @@||static.wixstatic.com^$important
@@ -1261,6 +1329,7 @@
 @@||theflixertv.to^$important
 @@||thegreeneturtle.com^$important
 @@||thegreeneturtle.myguestaccount.com^$important
+@@||themilitarywallet.com^$important
 @@||thepiratebay.org^$important
 @@||thepopculturestudio.com^$important
 @@||theyummery.com^$important
@@ -1269,7 +1338,9 @@
 @@||time.android.com^$important
 @@||time.samsungcloudsolution.com^$important
 @@||time*.google.com^$important
+@@||tiniest-yolo-dew.monad-mainnet.quiknode.pro^$important
 @@||tljus.com^$important
+@@||tls130rtt.spotifycdn.map.fastly.net^$important
 @@||tms.usaa.com^$important
 @@||tmstr2.shadowlandschronicles.com^$important
 @@||token-assets-one.vercel.app^$important
@@ -1304,11 +1375,13 @@
 @@||tvp-ads-log.samsungads.com^$important
 @@||twitter.com^$important
 @@||twrp.me^$important
+@@||u26710917.ct.sendgrid.net^$important
 @@||ubuntu.pkgs.org^$important
 @@||ubuntuforums.org^$important
 @@||ucom-dnkn.fiservapis.com^$important
 @@||uhf.microsoft.com^$important
 @@||ui.com^$important
+@@||uk.rs-online.com^$important
 @@||unagi.amazon.com^$important
 @@||unidiscover-packet-fwdr.prd.micr.now.hclsoftware.cloud^$important
 @@||union.maccms.la^$important
@@ -1410,6 +1483,7 @@
 @@||web-map.disneyplus.com^$important
 @@||web.facebook.com^$important
 @@||web.prod.cloud.netflix.com^$important
+@@||web.simplelogin.co^$important
 @@||web.whatsapp.com^$important
 @@||webapps.dol.gov^$important
 @@||weebcentral.com^$important
@@ -1454,6 +1528,8 @@
 @@||www-dc3.dailymotion.com^$important
 @@||www.a3erf.com^$important
 @@||www.adobe.com^$important
+@@||www.aliexpress.com^$important
+@@||www.aliexpress.us^$important
 @@||www.amazon.com^$important
 @@||www.android.com^$important
 @@||www.anime-planet.com^$important
@@ -1480,6 +1556,7 @@
 @@||www.careeronestop.org^$important
 @@||www.carrierlookup.com^$important
 @@||www.cbr.com^$important
+@@||www.chatbase.co^$important
 @@||www.chegg.com^$important
 @@||www.chinesecalendaronline.com^$important
 @@||www.chunkbase.com^$important
@@ -1506,6 +1583,7 @@
 @@||www.docker.com^$important
 @@||www.dol.gov^$important
 @@||www.dominos.com^$important
+@@||www.drmare.com^$important
 @@||www.dyson.com^$important
 @@||www.easyuefi.com^$important
 @@||www.ebay.com^$important
@@ -1521,6 +1599,7 @@
 @@||www.freetaxusa.com^$important
 @@||www.fuelrewards.com
 @@||www.fuelrewards.com^$important
+@@||www.gemini.com^$important
 @@||www.generalblue.com^$important
 @@||www.github.com^$important
 @@||www.gl-inet.com^$important
@@ -1546,6 +1625,7 @@
 @@||www.imagetotext.info^$important
 @@||www.incorp.com^$important
 @@||www.instagram.com^$important
+@@||www.investopedia.com^$important
 @@||www.ipqualityscore.com^$important
 @@||www.jeffgeerling.com^$important
 @@||www.joshualowcock.com^$important
@@ -1553,7 +1633,9 @@
 @@||www.kde.org^$important
 @@||www.kdrama.pw^$important
 @@||www.keranews.org^$important
+@@||www.kiln.fi^$important
 @@||www.kleintools.com^$important
+@@||www.kleintradesmanclub.com^$important
 @@||www.last.fm^$important
 @@||www.leeshunanrestaurant.com^$important
 @@||www.legendbeardshill.com^$important
@@ -1569,10 +1651,12 @@
 @@||www.maxemail.com^$important
 @@||www.mayoclinic.org^$important
 @@||www.merriam-webster.com^$important
+@@||www.mexc.com^$important
 @@||www.microsoft.com^$important
 @@||www.midtowncomics.com^$important
 @@||www.militaryhire.com^$important
 @@||www.milspouse.org^$important
+@@||www.miruro.to^$important
 @@||www.money-education.com^$important
 @@||www.mybaba.com^$important
 @@||www.mydav.org^$important
@@ -1580,6 +1664,7 @@
 @@||www.mynextmove.org^$important
 @@||www.mysmilecoverage.com^$important
 @@||www.nationalunderwriter.com^$important
+@@||www.navycs.com^$important
 @@||www.navyfederal.org^$important
 @@||www.netflix.com^$important
 @@||www.netify.ai^$important
@@ -1607,6 +1692,7 @@
 @@||www.peacocktv.com^$important
 @@||www.pennydellpuzzles.com^$important
 @@||www.perlego.com^$important
+@@||www.perplexity.ai^$important
 @@||www.phreeli.com^$important
 @@||www.pickupplease.org^$important
 @@||www.pishop.us^$important
@@ -1642,6 +1728,7 @@
 @@||www.speedtest.net^$important
 @@||www.swnetwork.org^$important
 @@||www.syncwire.com^$important
+@@||www.synology.com^$important
 @@||www.szechuaninnaberdeen.com^$important
 @@||www.tarranttaxinfo.com^$important
 @@||www.tatacommunications.com^$important
@@ -1658,6 +1745,7 @@
 @@||www.timeanddate.com^$important
 @@||www.toasttab.com^$important
 @@||www.totallybakedbytay.com^$important
+@@||www.tp-link.com^$important
 @@||www.transcendcompany.com^$important
 @@||www.trendnet.com^$important
 @@||www.truecable.com^$important
@@ -1665,6 +1753,7 @@
 @@||www.truphone.com^$important
 @@||www.trustpilot.com^$important
 @@||www.tsa.gov^$important
+@@||www.tunefab.com^$important
 @@||www.twingate.com^$important
 @@||www.txdmv.gov^$important
 @@||www.uber.com^$important
@@ -1709,6 +1798,7 @@
 @@||www.zillow.com^$important
 @@||www.zillowstatic.com^$important
 @@||www3.l.google.com^$important
+@@||wwwss.youtube.com^$important
 @@||x.com^$important
 @@||xboxlive.com.akadns.net^$important
 @@||xboxlive.com^$important
@@ -1722,6 +1812,7 @@
 @@||yesmovies.baby^$important
 @@||yflix.to^$important
 @@||yottamaster.com^$important
+@@||youngfinances.com^$important
 @@||youtube-ui.l.google.com^$important
 @@||youtubei.googleapis.com^$important
 @@||yryefinkgsbsfan.com^$important
@@ -1738,3 +1829,4 @@
 @@||ziglang.org^$important
 @@||znmx.mv36bbcfa.site^$important
 @@||zopim.com^$important
+||d2gpx7np84fwh1.cloudfront.net^$important
