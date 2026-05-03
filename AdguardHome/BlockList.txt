@@ -16,6 +16,7 @@
 ||brave-http-only.com^$important
 ||brave.com^$important
 ||connectivity-check.ubuntu.com^$important
+||d2gpx7np84fwh1.cloudfront.net^$important
 ||device.memfault.com^$important
 ||disneyadvertising.com^$important
 ||doubleclick.net^$important
@@ -57,4 +58,3 @@
 ||vidyard.com^$important
 ||www.googleadservices.com^$important
 ||www.googleapis.com^$important
-||d2gpx7np84fwh1.cloudfront.net^$important
