@@ -101,6 +101,7 @@
 @@||api.cow.fi^$important
 @@||api.fpjs.pro^$important
 @@||api.honeycomb.io^$important
+@@||api.lab.amplitude.com^$important
 @@||api.launchpad.net^$important
 @@||api.llama.fi^$important
 @@||api.mainnet.aptoslabs.com^$important
@@ -116,6 +117,7 @@
 @@||api.v3.aave.com^$important
 @@||api.weaveconnect.com^$important
 @@||api.web3modal.org^$important
+@@||api2.amplitude.com^$important
 @@||api2.authorize.net^$important
 @@||api2.branch.io^$important
 @@||apidata.googleusercontent.com^$important
@@ -1997,6 +1999,8 @@
 @@||yelpcdn.map.fastly.net^$important
 @@||yesmovies.baby^$important
 @@||yflix.to^$important
+@@||ympekf.cdn-settings.appsflyersdk.com^$important
+@@||ympekf.inapps.appsflyersdk.com^$important
 @@||yottamaster.com^$important
 @@||youngfinances.com^$important
 @@||youtube-ui.l.google.com^$important

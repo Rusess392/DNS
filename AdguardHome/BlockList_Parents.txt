@@ -1,3 +1,4 @@
+
 ||_xmpp-client._tcp.scs.samsungqbe.com^$important
 ||ably-realtime.com^$important
 ||anym8.com^$important
@@ -8,6 +9,7 @@
 ||assets.nflxext.com^$important
 ||atm.outlook.mira.tm.svc.cloud.microsoft^$important
 ||bag.itunes.apple.com^$important
+||brazzersnetwork.com^$important
 ||config-cd-dmgz.bamgrid.com^$important
 ||device.memfault.com^$important
 ||disney-curated-partner-feeds-prod.bamgrid.com^$important
@@ -21,6 +23,7 @@
 ||juicyads.com^$important
 ||laxrkyojzb.in^$important
 ||lcprd1.samsungcloudsolution.net^$important
+||livejasmin.com^$important
 ||local.appspot.com^$important
 ||memfault-tmp-production--use1-az4--x-s3.s3express-use1-az4.us-east-1.amazonaws.com^$important
 ||mindongaming.com^$important
@@ -38,6 +41,7 @@
 ||rmfakecloud.localhost^$important
 ||s3express-z-w-use1-az4.us-east-1.amazonaws.com^$important
 ||scs.samsungqbe.com^$important
+||sortporn.com^$important
 ||tvp-ads-log.samsungads.com^$important
 ||unagi-na.amazon.com^$important
 ||unifi^$important
